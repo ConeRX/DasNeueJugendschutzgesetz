@@ -1,0 +1,2860 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Na, musst du bei deinem Vater wieder aushelfen?
+Beh, devi aiutare tuo padre di nuovo?
+Was für Pizza steht denn heute auf der Karte?
+Che tipo di pizza c'è nel menu oggi?
+Türlich.
+Naturalmente.
+Ähm...Geld?
+Ehm... soldi?
+Du hattest Recht.
+Avevi ragione.
+Ich habe kürzlich deine Opas kennengelernt.
+Ho conosciuto i tuoi nonni di recente.
+Hast du 'Day of the Dead' gesehen?
+Hai visto il film "Day of the Dead"?
+Ich muss wieder los.
+Devo andare.
+Eigentlich würde ich lieber zum Strand runter gehen.
+In realtà, preferirei andare al mare.
+Aber ich will mir ein paar Kröten verdienen.
+Ma voglio guadagnare qualche verdone.
+Pizza mit Meteorbrocken und gerösteten Goldfischen.
+Pizza con scaglie di meteora e pesce rosso arrosto.
+Ist eine Designer-Pizza.
+È una pizza di design.
+Cool, was?
+Figo, eh?
+Klar, nehm eine.
+Grande! Preparamene una.
+Ich hoffe mal, dass du auch Geld dabei hast.
+Spero che tu abbia dei soldi.
+Ha, ich mal wieder.
+Davvero?
+...
+...
+Womit denn?
+Su cosa?
+Britneys Buch wurde verboten.
+Il libro di Britney è stato vietato.
+Falls du die beiden grauhaarigen Bänker meinst: Das sind nicht meine Opas.
+Se ti riferisci a quei due banchieri dai capelli grigi, non sono i miei nonni.
+Sicher?
+Davvero?
+Werde ja wohl wissen, wer mit mir verwandt ist und wer nicht.
+Sarò pur consapevole di chi è imparentato con me e di chi non lo è.
+Die sehen dir aber verdammt ähnlich.
+Ti assomigliano molto.
+Der Typ bei Mad News sieht mir auch ähnlich, ich bin aber trotzdem nicht mit ihm verwandt.
+Il tizio alla Mad News mi assomiglia, tuttavia non siamo parenti.
+Die Beiden waren jedenfalls ziemlich seltsam.
+In ogni caso, quei due sono piuttosto strani.
+War das der, wo sie versuchen einen Zombie wieder zu einem denkenden Wesen zu erziehen?
+È quello in cui si tenta di far credere che uno zombie sia una creatura pensante?
+Nein.
+No.
+Dann habe ich ihn nicht gesehen.
+Allora non l'ho visto.
+Halt die Ohren steif, Alter!
+Resta sintonizzato, amico!
+Seit wann wohnen sie denn hier, Herr Inspektor?
+Da quanto tempo vive qui, Ispettore?
+Warum sind sie umgezogen?
+Perché si è trasferito?
+Wie ist eigentlich der Fall mit dem Eisenbahndieb ausgegangen?
+Come si è concluso il caso del ladro dei treni?
+Aufwiedersehen.
+Arrivederci.
+Ein sehr neugieriger Bursche, was?
+Sei un tipo molto curioso, non è vero?
+Ich bin gerade mit dem Auspacken fertig geworden.
+Ho appena finito di disfare le valigie.
+Nun...äh...
+Beh... ehm...
+Ja?
+Sì?
+JA ICH GEBE ES ZU!
+SÌ, LO AMMETTO!
+MAN HAT MICH AUS MEINER ALTEN WOHNUNG GEWORFEN!
+MI HANNO BUTTATO FUORI DAL MIO VECCHIO APPARTAMENTO!
+Ist ja gut! Wir sind alle bei ihnen!
+Capisco! Ha tutta la mia solidarietà!
+Tut mir leid, aber es ist mir einfach so peinlich.
+Mi dispiace, sono così imbarazzato.
+Sein Partner hat ihn freigekauft.
+Il suo socio gli ha pagato la cauzione.
+Da hat er aber nochmal Glück gehabt.
+Ha avuto fortuna.
+Das glaube ich nicht.
+Non credo.
+Warum?
+Perché?
+Weil er und sein Partner nun wegen gewerbsmäßiger Urheberrechtsverletzungen verklagt werden.
+Perché lui e il suo socio sono stati citati in giudizio per violazione del diritto d'autore commerciale.
+Wer ist denn der Kläger?
+Chi è il querelante?
+Weiß ich nicht mehr. Mick Laus oder so.
+Non ricordo bene. Micky Louse o qualcosa del genere.
+Man sieht sich.
+Arrivederci.
+Wer bist du denn?
+Chi sei?
+Hallo Tom.
+Salve Tom.
+Ich da gehört das du 'Ware' verkaufst
+Ho sentito che ti sei dato al 'commercio'.
+Und wie läuft das Geschäft?
+Come vanno gli affari?
+Warum verkaufst du hier?
+Perché le stai vendendo qui?
+Was willst du für ein Exemplar?
+Per una copia, cosa vuoi?
+Wie gehts deinem Vater?
+Come sta tuo padre?
+Ich muss wieder los
+Devo proprio andare, adesso.
+Ich bin Tom.
+Io sono Tom.
+Und was machst du hier mit den Exemplaren von Britneys Tagebuch?
+E cosa stai facendo qui con le copie del diario di Britney?
+Verkaufen, Digger. Die Dinger sind jetzt verboten.
+Voglio venderle, amico. Queste cose adesso sono vietate.
+Kennen wir uns?
+Ci conosciamo?
+Nicht persönlich, aber dein Vater ist mein Lehrer.
+Non personalmente, ma tuo padre è il mio insegnante.
+Achso.
+Capisco.
+Wer sagt denn sowas?
+Chi dice una cosa del genere?
+Ich verkaufe nur Britneys Tagebücher!
+Vendo solo i diari di Britney!
+Das hatte ich doch auch gemeint...
+È quello che intendevo...
+Warum sagst du dass dann nicht?
+Allora perché non l'hai detto?
+Mein Kuh-Dingens ist nur 75!
+Il mio quo-coso è solo 75!
+IQ?
+QI?
+Genau, das Kuh-Dingens.
+Esattamente, il quo-coso.
+Noch nicht so gut. Du bist erst der Zweite der mich darauf anspricht.
+Non sono ancora così soddisfacenti. Tu sei solo il secondo cliente con cui parlo.
+Der Erste hat nichtmal gekauft!
+Il primo non ha comprato nulla!
+Wer war denn der Erste?
+Chi è stato il primo?
+Dieser Typ von Woodies Pizza Shack , der mir diese blauen Pillen verkauft hat. Echt starkes Zeug!
+Quel tizio di Woodie's Pizza Shack, che mi ha venduto quelle pillole blu. Roba davvero forte!
+Ich frage lieber nicht...
+Non voglio sapere altro...
+Weil es hier sicher ist.
+Perché qui è più sicuro.
+Fällt es hier nicht besonders auf?
+Non è troppo esposto, qui?
+Nö, ich hänge sonst auch immer hier ab. Ich bin nicht gerne in der Wohnung von meinem Vater.
+No, altrimenti non la poggerei qui fuori. E poi non mi piace stare nell'appartamento di mio padre.
+Wieso zieht du dann nicht in eine eigene Wohnung?
+Allora perché non lo fai a casa tua?
+Dort ist es nicht sicher!
+Non è sicuro lì!
+Mitlerweile ziehen Polizisten absichtlich in solche Wohnungen, um die Nachbarn nach illegalem Stuff zu durchsuchen.
+Perché succede che i poliziotti si trasferiscono deliberatamente in tali appartamenti allo scopo di indagare sui vicini di casa per le cose illegali.
+Und wenn man auf den Grund für ihren Umzug anspricht, kriegt man nur zur Antwort dass sie aus ihrer alten Wohnung geworfen wurden und es ihnen unangenehm ist darüber zu reden.
+E quando si chiede il motivo del loro trasferimento, si ottiene come risposta solo che sono stati cacciati dal loro vecchio appartamento e sono a disagio a parlarne.
+Geld.
+Soldi.
+Das ist mir bewusst.
+Non avevo dubbi.
+Ich wollte wissen, wieviel?
+Posso sapere quanto?
+Nun, wenn man zum ursprünglichen Preis die Straßensteuer,
+Beh, se si considera la tassa di circolazione,
+die Zuvielwertsteuer,
+l'imposta sul valore aggiunto,
+die Schwarzmarktsteuer und meine eigene Provision dazu rechnet...
+la tassa sul mercato nero e la mia commissione...
+Du kannst rechnen?
+Sai quanto fa in totale?
+Nein, aber es klingt intelligent.
+No, ma suonava intelligente.
+Sagen wir, 150 Dollar?
+Diciamo 150 dollari?
+Du bist verrückt!
+Tu sei pazzo!
+Stimmt. Mein Vater hat mich kürzlich testen lassen. Woher weißt du das?
+Hai ragione! Anche mio padre mi ha fatto fare un test in merito, recentemente. Come facevi a saperlo?
+Ähh...
+Ehm...
+Egal. Kommen wir ins Geschäft?
+Lasciamo perdere. Passiamo agli affari?
+Nicht für diesen Preis.
+Non a quelle condizioni.
+Dann verschwinde und mach platz für den nächsten Kunden.
+Quindi puoi sparire e lasciare spazio al prossimo cliente.
+Du kennst meinen Vater?
+Conosci mio padre?
+Hatte ich nicht gerade gesagt, dass er mein Lehrer ist?
+Non ti ho appena detto che è il mio insegnante?
+Kann sein.
+Può darsi.
+Was machst du hier?
+Che cosa stai facendo qui?
+Starrst du diesen Hamster an?
+Fissi questo criceto?
+Weißt du wem dieser Hamster gehört?
+Sai a chi appartiene questo criceto?
+Könntest du bitte weg gehen?
+Per favore, puoi andartene?
+Gibt es eine Möglichkeit dass du verschwindest?
+Esiste una maniera per farti andare via?
+Was wolltest du nochmal haben?
+Cosa vuoi, allora?
+Schon gut.
+Va bene.
+Was geht dich das an?
+Che te ne importa?
+Ist das der Name deines neuen Freundes?
+È così che chiami il tuo nuovo ragazzo?
+Mr. Was-geht-sie-das-an?
+Signor Che-te-ne-importa?
+NEIN!
+NO!
+Ich hatte einen Arzttermin und warte nun auf den Bus um nach Hause zu fahren.
+Ho avuto un appuntamento dal medico e ora sto aspettando l'autobus per tornare a casa.
+Zufrieden?
+Soddisfatto?
+Frauenarzt?
+Dal ginecologo?
+Ja.
+Già.
+Ich soll auf das Fellknäul aufpassen.
+Devo tenere d'occhio la palla di pelo.
+Und sowas machst freiwillig?
+Lo fai di tua iniziativa?
+Natürlich.
+Naturalmente.
+Schließlich ist das Ding sooo süß!
+Dopotutto, questo cosino è così cariiiiiino!
+Außerdem hat mir dieser häßliche Typ 20 Dollar versprochen.
+Inoltre, quel bruttone mi ha promesso 20 dollari.
+Diesem blauen Freak da.
+A quel pazzoide blu...
+Der dort mit Tom spricht.
+... che sta parlando con Tom.
+Du kennst Tom?
+Conosci Tom?
+Ich kenne alle Männer in Ronville in- und auswendig.
+Conosco bene tutti gli uomini di Ronville.
+Muss...Kommentar...verkneifen...
+Meglio... evitare... commenti...
+Warum sollte ich denn?
+Perché dovrei farlo?
+Damit du den Hamster klauen und das Leben dieses armen Tieres in der Mikrowelle beenden kannst?
+Così che tu possa rubare il criceto e porre fine alla vita di questo povero essere nel forno a microonde?
+Ähhh....
+Ahhh...
+Dachte ich es mir doch!
+Me l'ero proprio immaginato!
+Du kannst denken?
+Sai pure pensare?
+Selbstverständlich. Dachtest du, mein Gehirn wäre schon vor Jahren im Klo runtergespült worden?
+Naturalmente. Credevi che il mio cervello fosse stato scaricato nella toilette anni fa?
+Was ist 79 minus 78?
+Quanto fa 79 meno 78?
+Was interessiert mich das? Bin ich mein bescheuerter Bruder?
+E a me cosa importa? Ti sembro forse quel pivello di mio fratello??
+Dazu sage ich lieber nichts.
+Preferirei non dire niente al riguardo.
+Ist auch besser so.
+Meglio così.
+Eine Möglichkeit gäbe es da schon...
+C'è una possibilità.
+Die da wäre?
+Sarebbe?
+Ich träume schon lange von einem lila Handy.
+Ho avuto un sogno ricorrente su di un telefono cellulare lilla.
+Und wo ich kriege ich eines her?
+E dove posso trovarne uno?
+Das lass ich mal deine Sorge sein.
+Questo è un problema tuo.
+Ein lila Handy.
+Un cellulare lilla.
+Was ist los Ed?
+Che succede, Ed?
+Aber das Buch hast du bekommen?
+Ma hai preso il libro?
+Wie meinst du das: Tot oder lebendig?
+Perché dici: vivo o morto?
+Bis bald.
+Ci vediamo.
+Mein Hamster ist weg!
+Il mio criceto è stato rapito!
+Wer würde denn so etwas tun?
+Chi farebbe mai una cosa del genere?
+Böse Menschen, Syd. BÖSE Menschen!
+Delle persone cattive, Syd. Persone MALVAGIE!
+Irgendeine Idee, wer deinen Hamster entführt haben könnte?
+Hai idea di chi possa aver rapito il tuo criceto?
+Überhaupt nicht, ich habe die ganze Zeit mit Tom verhandelt.
+Assolutamente no, ho negoziato con Tom per tutto il tempo.
+War ziemlich schwierig, ihm zu erklären was ich von ihm will.
+Era già abbastanza difficile spiegargli cosa volevo.
+Normalerweise habe ich nichts mit solchen Menschen zu tun.
+Normalmente non ho nulla a che fare con persone di quel tipo.
+Schwarzmarkthändlern?
+Ti riferisci al mercato nero?
+Zurückgeliebene. Ich mag solche Menschen nicht!
+Esseri insensibili. Non mi piacciono quelle persone!
+Ähhh...
+Ehm...
+Was?
+Che c'è?
+Nichts.
+Niente.
+Ja und ich setze es als Belohnung ein.
+Sì, e lo userò come ricompensa.
+Derjenige der meinen Hamster findet, tot oder lebendig, bekommt das Buch!
+Colui che ritrova il mio criceto, vivo o morto, avrà il libro!
+Ich befürchte dass man meinen Hamster bereits getötet hat!
+Temo che il mio criceto sia già stato ucciso!
+Und was machst du mit dem Täter?
+E cosa faresti all'assassino?
+Ich werde ihn qualvoll leiden lassen.
+Lo farei soffrire atrocemente.
+COMMENT *** Room Objects Translation: insert the appropriate sprite slot number under each line called 'ObjTrs'
+
+ObjTrs - start background
+70
+ObjTrs - Hamstar Spot description
+71
+ObjTrs - Hamstar Background
+72
+COMMENT *** Additional GUI Translation: insert the appropriate sprite slot number under each line called 'AddGuiTrs'
+
+AddGuiTrs - gui13: newspaper
+73
+COMMENT *** Game Name Translation: translate the name of game and it will be translated in the title bar
+
+MMM 41: Das neue Jugendschutzgesetz
+MMM 41: La nuova legge a tutela dei minori 
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+Modulo Crediti 1,13 di SSH
+Die ist abgesperrt.
+È chiusa.
+Damit geht die Tür nicht auf.
+Non aprirà la porta.
+Damit geht die Tür nicht zu.
+Non chiuderà la porta.
+Eine Tür.
+Una porta.
+Meine Zimmertür.
+La porta della mia camera.
+MMM_GO
+
+Gehe zu %s
+Vai verso %s
+Schau an %s
+Esamina %s
+Rede mit %s
+Parla a %s
+Gib !s an %s
+Dai !s a %s
+Gib %s
+Dai %s
+Nimm %s
+Raccogli %s
+Benutze !s mit %s
+Usa !s con %s
+Benutze %s
+Usa %s
+Öffne %s
+Apri %s
+Schließe %s
+Chiudi %s
+Drücke %s
+Spingi %s
+Ziehe %s
+Tira %s
+Wechsle zu %s
+Passa a %s
+!s
+
+%s
+
+%d. 
+
+>
+
+$
+
+%s>%c
+
+>n
+
+JjNn
+SsNn
+a_button_give 5 802 803 Dd
+a_button_give 0 34 44 Qq
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 49 50 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 55 56 Ee
+a_button_open 3 790 791 Aa
+a_button_open 3 45 46 Aa
+a_button_look_at 0 788 789 Qq
+a_button_look_at 4 51 52 Ss
+a_button_push 7 798 799 Xx
+a_button_push 5 57 58 Dd
+a_button_close 4 796 797 Ss
+a_button_close 6 47 48 Zz
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 7 53 54 Xx
+a_button_pull 6 792 793 Yy
+a_button_pull 8 68 69 Cc
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+Ach nö, will heute keine Türen schleppen.
+Oh, no. Non voglio trascinarmi dietro delle porte.
+Man kann auch eine Tür \"öffnen\" oder \"schließen\".
+Una porta può anche essere \"aperta\" oppure \"chiusa\".
+Das ist doch zu.
+È già chiusa.
+Das ist schon offen.
+È già aperta.
+Das ist schon zu.
+Quest'oggetto è già chiuso.
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+
+error: Talk view isn't assigned!
+
+%%%dc
+
+scrnshot.bmp
+
+Nullometer.
+Contachilometri.
+Natürlich habe ich Geld dabei.
+Certo che ho dei soldi.
+Nebenbei, hast du die \"Ware\" bekommen?
+A proposito, ti sei procurato la \"merce\"?
+Du interessiert dich nicht besonders für das Weltgeschehen, oder?
+Non segui gli avvenimenti del mondo reale, vero?
+Wieso fragst du?
+Perché me lo chiedi?
+Heute schon in die Zeitung gekuckt?
+Hai visto il giornale di oggi?
+Die Zeitung schreibt doch sowieso nur Müll.
+La stampa scrive solo spazzatura.
+Ich wäre mir da nicht so sicher.
+Non ne sarei così sicuro.
+An deiner Stelle würde ich mich damit beeilen, wenn du dir noch eine Ausgabe zulegen willst.
+Al tuo posto, mi affretterei a comprarne una copia.
+Weißt du was? Das werde ich jetzt auch machen. Schnell die Kontaktdaten vom Verlag besorgen und eine Ausgabe bestellen.
+Sai una cosa? Farò proprio così. Cerco subito gli estremi dell'edizione e contatto l'editore per ordinarne una copia.
+Und was ist mit deiner Pizza?
+E la tua pizza?
+Ähmmm....kannst du es mir nicht anschreiben?
+Ehm... non puoi mettermela in conto?
+Tut mir leid, Syd. Ich kann dir keinen Kredit geben.
+Mi dispiace, Syd. Non posso concederti un prestito.
+Komm wieder, wenn du etwas Geld dabei hast.
+Torna quando hai dei soldi.
+Ach deshalb...
+Ecco il motivo...
+Deshalb was?
+Di cosa parli?
+Kennst du Tom Koslowski?
+Conosci Tom Koslowski?
+Koslowski? Mr. Koslowski? Unser Lehrer?
+Koslowski? Il Signor Koslowski? Il nostro insegnante?
+Sein Sohn.
+Suo figlio.
+Er ist hier gerade mit einem Haufen Büchern vorbeigelaufen.
+È appena passato di qui con un mucchio di libri.
+Wahrscheinlich vertickt der Depp die jetzt zu völlig utopischen Preisen.
+Probabilmente quel matto li vuol vendere a prezzi del tutto utopici.
+Momentmal. Der Sohn von Kotzlowski betreibt Schwarzhandel?
+Ma... un momento. Il figlio di Kotzlowski si è dato al mercato nero?
+Der Kerl hat wenig mit seinem Vater gemeinsam.
+Il ragazzo ha poco in comune con suo padre.
+Am wenigsten der Intellekt. Der Depp ist völlig zurückgeblieben. Hat was von Ed.
+Meno di tutto l'intelletto. L'idiota è completamente ritardato. Vuol vendere qualcosa a Ed.
+Und das bei dem Vater.
+All'oscuro del padre.
+Kommt in den besten Familien vor.
+Succede anche nelle migliori famiglie.
+Wie sollen schließen das?
+Come pensi di poterlo chiudere?
+Besser nicht.
+Meglio di no.
+Passieren nichts.
+Non succede nulla.
+Tja, scheint nicht zu klappen.
+Beh, sembra che non funzioni.
+Achmed nix können sehen was.
+Achmed non lo può vedere.
+Achmed finden es blöd.
+Achmed lo trova stupido.
+Was guckst du?!?
+Cosa stai guardando?
+Nix sehen können!
+Non si vede niente!
+Toll.
+Bella!
+Achmed können nicht alles bewegen oder was?!?
+Achmed è impossibilitato a muovere o cosa?!?
+Da tut sich nichts.
+Non succede niente.
+Achmed brauchen das nicht.
+Achmed non ne ha bisogno.
+Da bewegt sich nichts.
+Non si muove nulla.
+Achmed nicht können öffnen.
+Achmed non può aprirsi.
+Es scheint nicht aufzugehen.
+Non sembra che si possa fare.
+Wollen nicht mit Achmed labern.
+Non voglio parlare con Achmed.
+Jetzt nicht.
+Niente da fare.
+Das sein nicht gut.
+Essere meglio di no.
+Das klappt so nicht.
+Non funziona.
+Isse niche gute.
+Non mangiate quelli buoni. (???)
+Klappen nicht.
+Non funzionano.
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+Ce l'ho già, non posso prenderlo di nuovo.
+Wozu?
+A quale scopo?
+Es bewegt sich nicht.
+Non si muove.
+Das lässt sich nicht öffnen.
+Non si può aprire.
+Das lässt sich nicht schließen.
+Non si può chiudere.
+Das ist jemand anderes.
+È qualcun altro. (???)
+Zu schwer.
+Troppo pesante.
+Das bringt nichts.
+Non serve a niente.
+Schließen? Gehts noch?
+Chiudi? Sul serio?
+Öffnen? Gehts noch?
+Apri? Sul serio?
+Benutzen? Gehts noch?
+Usa? Sul serio?
+Warum sollte ich das weitergeben?
+Perché dovrei fare questo? (???)
+Das ist mein Kumpel Jeff.
+È il mio amico Jeff.
+Mit was soll ich ihn benutzen?
+Con cosa dovrei usarlo?
+Jeff ist definitiv zu groß für meine Taschen.
+Jeff è decisamente troppo grande per le mie tasche.
+Nein, danke. Auf den Anblick kann ich gerne verzichten.
+No, grazie. Non ho bisogno di guardarlo.
+Das ergibt keinen Sinn.
+Non ha alcun senso.
+Warum sollte ich ihm das geben?
+Perché dovrei dargli quest'oggetto?
+Ich möchte Jeff nicht umarmen.
+Non voglio abbracciare Jeff.
+Soll ich ihn über die Theke ziehen, oder wie?
+Devo buttarlo sopra al bancone, o cosa?
+Da bist du ja wieder. Und? Hast du das Buch bestellt?
+Eccoti di nuovo. Quindi? Hai ordinato il libro??
+Noch nicht.
+Non ancora.
+Hi, Jeff.
+Ciao, Jeff.
+Hi, Syd.
+Ciao, Syd.
+Ihn jetzt anzusprechen bringt nichts.
+Parlare con lui ora non serve a nulla.
+Das ist Tom. Keine Ahnung, wie sein Nachname lautet.
+È Tom. Non so quale sia il suo cognome.
+Was ist denn das für ein abgewrackter Typ?
+Ma chi è questo sbandato?
+Er sieht wirklich nicht so aus, als wäre er der Sohn von einem Lehrer.
+Non sembra proprio che sia il figlio di un insegnante.
+Das ist der verrückte Ed.
+È Ed il pazzo.
+Im Leben nicht!
+Mai, per tutta la vita!
+Nein danke, auf den Anblick kann ich gut und gerne verzichten.
+No, grazie. Faccio volentieri a meno di guardarlo.
+Was sollte das bewirken?
+A che servirebbe?
+Ich bezweifel, dass ich ihn umstoßen könnte.
+Dubito di poterlo mettere KO.
+Hallo Ed.
+Ciao Ed.
+Oh. Hallo Syd.
+Oh. Ciao Syd.
+Hey Ed, ich habe deinen Hamster gefunden.
+Ehi Ed, ho trovato il tuo criceto.
+Vielen, vielen, vielen, Dank, Syd.
+Mille, mille, mille grazie, Syd.
+Ich weiß nicht, was ich ohne ihn machen würde.
+Non so cosa farei senza di lui.
+Als Belohnung kann ich nur das Buch geben.
+Come ricompensa, posso darti solo questo libro.
+Falls ich außer der Belohnung noch was machen kann, brauchst du nur was zu sagen.
+Se posso fare qualcosa oltre alla ricompensa, tutto quello che devi fare è chiedere.
+Ich komme auf dich zurück.
+Ti ricontatterò.
+Ed, ich habe deinen Hamster gefunden. Leider war er schon tot.
+Ed, ho trovato il tuo criceto. Purtroppo, era già morto.
+WER WAR DAS?
+CHI È STATO?
+Inspektor Clouso. Er wohnt im 2. Stockwerk dieses Gebäudes.
+L'ispettore Clouso. Vive al secondo piano di questo edificio.
+Hier ist die Belohung.
+Ecco la ricompensa.
+Aber jetzt muss ich weg.
+Ma ora devo andare.
+ICH MUSS JEMANDEN TÖTEN!
+DEVO UCCIDERE QUALCUNO!
+Das muss ich sehen!
+Non voglio perdermela!
+Britney, Bernards Schwester.
+Britney, la sorella di Bernard.
+Wir sind hier nicht in einer Trash-Episode!
+Qui non siamo in un episodio Trash della serie!
+Ausziehen wäre fein.
+Sarebbe piacevole.
+Jetzt bloß nicht schüchtern sein!
+Dai, non essere timida!
+Umarme mich, Britney!
+Abbracciami, Britney!
+Britney, ich habe hier etwas für dich.
+Britney, ho qualcosa qui per te.
+Bist du farbenblind? Ich möchte ein LILA Handy!
+Sei daltonico? Voglio un telefono LILLA!
+Zumindest das Sehzentrum ist in ihrem Hirn verhanden und funktioniert.
+Almeno il centro visivo è nel tuo cervello, e funziona.
+EIN LILA HANDY!
+UN TELEFONO CELLULARE LILLA!
+Genau so eins wollte ich haben!
+È proprio quello che volevo!
+Warum sollte ich ihr das geben?
+Perché dovrei darle questa roba?
+Britney?
+Britney?
+Die Fernbedienung des Fernsehers.
+Il telecomando del televisore.
+Billigstes Lederimitat.
+Un similpelle a buon mercato.
+Meine CashCard.
+La mia carta di credito.
+Und ein paar Dollar.
+E un paio di dollari.
+Da sind nur noch ein paar Dollar drin.
+Ci sono rimasti solo pochi dollari.
+Das ergibt wenig Sinn.
+Non ha molto senso.
+Ein Eimer lila Farbe.
+Un secchio di vernice lilla.
+Ich könnte etwas hinein tauchen...
+Potrei metterci dentro qualcosa...
+Die Farbe ist nun offen.
+Il secchio di vernice adesso è aperto.
+Die Farbe ist bereits offen.
+Il secchio di vernice è già aperto.
+Die Farbe ist jetzt wieder zu.
+Il secchio di vernice è di nuovo chiuso.
+Die Farbe ist bereits zu.
+Il secchio di vernice è chiuso.
+Es bringt nichts, wenn ich den Eimer bewege.
+Non mi interessa spostare il secchio.
+Und rein damit.
+Lo immergo totalmente.
+Ich habe das Handy bereits gefärbt.
+Ho già verniciato il telefono.
+Das macht zuviel Sauerei.
+Lo imbratterebbe solamente.
+Der Hamster ist doch schon tot.
+Il criceto è già morto.
+Ich verstehe nicht, was das bezwecken soll.
+Non ne vedo il senso.
+Es ist gesperrt und ich kenne den PIN nicht.
+È bloccato e non conosco il PIN.
+Ein Handy. Gehört eigentlich dem Inspektor.
+Un telefono cellulare. È dell'Ispettore.
+Das Handy des Inspektors. In lila!
+Il telefono cellulare dell'Ispettore. In lilla!
+Nicht mein Fachgebiet. Das wäre etwas für Bernard.
+Non è la mia area di competenza. Andrebbe bene per Bernard.
+Es ist doch bereits zu.
+È già chiuso.
+Ich kann wild auf den Tasten drauf rum drücken, aber es bringt nichts.
+Posso premere i tasti a caso, ma non serve a niente.
+Ich möchte das Handy nicht kaputt machen.
+Non voglio rompere il telefono.
+Hat ewig gebraucht, bis die mir endlich bewilligt wurde.
+Ci è voluta una vita affinché mi venisse rilasciata.
+Als ich die Socke gekauft habe, war sie noch weiß.
+Quando ho comprato il calzino, era ancora bianco.
+Ich habe sie versehentlich zusammen mit meiner Sammlung gelber Krawatten gewaschen.
+L'ho lavato per sbaglio insieme alla mia collezione di cravatte gialle.
+Und rein da.
+Ce lo infilo dentro.
+Ich fass es nicht. Das funktioniert wirklich.
+Non ci posso credere. Funziona davvero.
+Vorher muss das Wasser raus.
+Devo prima svuotarlo d'acqua.
+Diese Dinge kann ich nicht miteinander benutzen.
+Non posso usare queste cose insieme.
+Ein leeres Glas.
+Un barattolo di vetro vuoto.
+Ein Glas, bis zum Rand gefüllt mit Milch.
+Un barattolo di vetro pieno di latte fino all'orlo.
+In dem Glas ist nun Milchsockensäure.
+Ora c'è l'acido latteocalzettinico nel barattolo di vetro.
+Ein Glas, gefüllt mit Leitungswasser.
+Un barattolo di vetro pieno di acqua del rubinetto.
+Ein Glas mit einer Socke darin.
+Un barattolo di vetro con un calzino dentro.
+Auch wenns eher nach Urin aussieht.
+Anche se assomiglia di più all'urina.
+Mit was?
+Con che cosa?
+Den Deckel kann ich abmachen, wenn es nötig ist.
+Se serve, posso rimuovere il coperchio.
+Der Deckel ist schon drauf.
+Già è chiuso dal coperchio.
+Ich möchte das Glas nicht zerdrücken.
+Non voglio rompere il barattolo.
+Die leere Packung brauche ich nicht mehr.
+Non mi serve il pacco vuoto.
+Das bringt nichts. Wenn ich den Hamster ertränken möchte, muss sich schon irgendetwas darin befinden.
+Non serve a niente. Se voglio annegare il criceto, ci deve essere qualcosa dentro.
+Und heb.
+Su, forza.
+Armer kleiner Racker.
+Povero piccino.
+Ist ganz friedlich ertrunken.
+È annegato in pace.
+Und deshalb sollte man die Milchsockensäure außerhalb der Reichweite von Kindern und Tieren aufbewahren.
+Ed è per questo che si dovrebbe tenere l'acido latteocalzettinico fuori dalla portata dei bambini e degli animali.
+Was soll das denn? Mit einer Socke kann ich den Hamster nicht töten.
+Che cosa vuoi fare? Non posso uccidere il criceto con un calzino.
+Warum sollte ich das in das Glas stecken?
+Perché dovrei metterlo nel barattolo?
+Eine Packung Frischmilch.
+Una confezione di latte fresco.
+Mit was soll ich die Milch benutzen?
+Con che cosa devo usare il latte?
+Die Milch öffne ich erst, wenn ich sie auch brauche.
+Non aprirò il latte finché non ne avrò bisogno.
+Die Packung ist noch zu.
+La confezione è già chiusa.
+Etwa durch die Nase ziehen?
+Non posso stirare la confezione.
+Ich möchte die Packung nicht zerdrücken.
+Non voglio schiacciare il pacco.
+Mit der Milchpackung ist das recht umständlich.
+È complicato farlo con la confezione del latte.
+Schlaftabletten.
+Sonniferi.
+Ich habe in letzter Zeit Probleme mit dem Einschlafen, ok?
+Ho avuto problemi per dormire ultimamente, va bene?
+Und jetzt mach Ahh!
+Adesso fai aaahh!
+Er ist ganz friedlich durch eine Überdosis gestorben.
+È morto in pace per overdose.
+Ich möchte den Hamster in der Mikrowelle grillen und ihn nicht vergiften.
+Voglio grigliare il criceto nel forno a microonde, non avvelenarlo.
+Eds Hamster.
+Il criceto di Ed.
+Ist ihm sicher eine Belohnung werd, wenn ich ihm den wiederbringe.
+Sono sicuro che mi darà una ricompensa se glielo riporterò.
+Oder ich könnte ihn in die Mikrowelle stopfen.
+Oppure potrei grigliarlo nel forno a microonde.
+Nah, so böse bin ich nicht.
+Nah, non sono poi così cattivo.
+Oder doch?
+Oppure sì?
+Eds Hamster. Tot!
+Il criceto di Ed. Morto!
+Das hänge ich dem Inspektor an!
+Potrei accusare l'Ispettore!
+Das ist Ash. Ihm gehört der S-Mart.
+Questo è Ash, è il proprietario del S-Mart. (come vogliamo tradurlo?)
+Ash lässt sich nicht ausnutzen.
+Non puoi rapire  Ash.
+Er ist ein kleines bisschen zu groß für meine Taschen.
+È un po' troppo grande per le mie tasche.
+Auf den Anblick würde ich gerne verzichten!
+Vorrei evitare di vederlo! (???)
+Das ergibt nicht wirklich Sinn.
+Non ha nessun senso.
+Ash lässt sich nicht über den Tisch ziehen.
+Ash non può essere tirato sopra il tavolo.
+Ich möchte ihn wirklich nicht umarmen.
+Davvero, non voglio abbracciarlo.
+Ich wüsste nicht, worüber ich mit ihm reden sollte.
+Non so di cosa parlare con lui.
+Text
+
+Wie kann ich Ihnen dienen?
+Come posso aiutarti?
+Speichern
+Salva
+Laden
+Carica
+Spielen
+Gioca
+Beenden
+Esci
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+Pausa. Premi SPAZIO per continuare.
+Wählen Sie ein Spiel zum Laden
+Scegli una partita da CARICARE.
+Abbruch
+Annulla
+Name für das Spiel
+Dai un nome al SALVATAGGIO.
+OK
+
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+Vuoi davvero uscire? (S/N)
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+Vuoi davvero ricominciare? (S/N)
+Tom
+
+Syd
+
+Clouso
+
+Jeff
+
+Weird Ed
+Ed il pazzo
+Britney
+
+Achmed
+
+TVGirl
+presentatrice TV
+Ashley
+
+Bänker 1
+banchiere 1
+Bänker 2
+banchiere 2
+Fernbedienung
+telecomando
+Portemonnaie
+portafoglio
+Handy
+telefono cellulare
+Farbeimer
+secchio
+CashCard
+carta di credito
+Socke
+calzino
+Milch
+latte
+Glas
+barattolo di vetro
+Schlaftabletten
+sonniferi
+Tagebuch
+diario
+Hamster
+criceto
+dummy
+manichino
+Sein Syds Schlagzeug. Manchmal ich höre ihn.
+Essere il kit della batteria di Syd. A volte lo sento suonare.
+Mein Schlagzeug.
+La mia batteria.
+Das benutze ich auch in der \"Wink Smiley Show\".
+La uso anche nello show di \"Wink Smiley\".
+Das ist Syds Schlagzeug
+La batteria di Syd.
+Achmed nix brauchen Zeug zum Schlagen.
+Achmed non ha bisogno di cose da sbattere.
+Das sollen die Leute vom Umzugsservice machen. Die schleppen das auch immer zu Wink.
+Solo quando è strettamente necessario. Per portarla da Wink.
+Ich nehm doch nicht anderer Leute Schlagzeug mit.
+Non prendo la batteria di altre persone.
+Achmed fehlen Stöck um zu machen Musik. Sonst gerne Achmed würden tun.
+Ad Achmed mancano le bacchette per fare musica. Altrimenti Achmed lo farebbe.
+Hmmm ...
+Hmmm...
+Ich hab' die Stöcke verbummelt.
+Ho perso le bacchette.
+Ich spiele kein Schlagzeug
+Non suono la batteria.
+Die Bespannung ist noch ganz brauchbar.
+Il rivestimento è ancora utilizzabile.
+Das würde das Scvhlagzeug beschädigen.
+Ma così danneggeresti i tamburi.
+Zu sein.
+Essere chiuso.
+Das ist bereits fest verschlossen.
+È già chiusa saldamente.
+Diese Aktion führt nicht zum erwarteten Ergebnis.
+Questa azione non produce i risultati sperati.
+Zu schwer sein für Achmed.
+Essere troppo pesante per Achmed.
+Was du alles willst.
+Non puoi fare sul serio.
+Hier liege ich nachts.
+Passo qui la notte.
+Alleine.
+Da solo.
+Wie immer ...
+Come sempre...
+Da liegt ja noch eine Socke!
+C'è un calzino!
+Kein Wunder, dass nach dem Wäschewaschen eine gefehlt hatte.
+Non c'è da meravigliarsi che ne mancava uno dopo aver fatto il bucato.
+Achmed selber haben Bett.
+Anche Achmed avere un letto.
+Du nur nicht sehen.
+Solo che non lo vedi. (???)
+Das sollen die Möbelpacker machen.
+È compito di un traslocatore.
+Das ist mir zu schwer.
+È troppo pesante per me.
+Syds Bett?
+Il letto di Syd?
+Du machen Spiel aus. Achmed wollen keine Zeugen.
+Mi stai prendendo in giro. Achmed non vuole testimoni. (???)
+Jetzt ist nicht die Zeit zum Schlafen.
+Non è questo il momento di dormire.
+Jetzt? Hmm ...
+Adesso? Hmmm...
+Nicht aufzugehen scheinen.
+Non sembra sia adattabile. (???)
+Ich habe kein Kastenbett, das man öffnen könnte.
+Non è un letto con contenitore, quindi non può essere aperto.
+Das Bett lässt sich nicht öffnen.
+Il letto non può essere aperto.
+Wo sich nichts öffnen lässt, lässt sich auch nichts schließen.
+Quando nulla può essere aperto, nulla può essere chiuso.
+Das Bett ist gemacht. Also, was genau soll ich?
+Il letto è fatto. Che cosa dovrei fare esattamente?
+Achmed nix verrücken Bett.
+Achmed n on vuole spostare il letto.
+Nein, das mache ich nicht.
+No, non lo faccio.
+Das wäre eine interessante Alternative zum Tischerücken.
+Questa sarebbe un'alternativa interessante al tavolo da pranzo.
+Syds Ohrmuschel. Ab und an Syd mit mir telefonieren.
+La cornetta di Syd. Syd mi chiama di tanto in tanto.
+Mein Telefon.
+Il mio telefono.
+Irgendwann wird mich jemand anrufen ...
+Un giorno qualcuno mi chiamerà...
+... und mir einen Plattenvertrag anbieten!
+... e mi proporrà un contratto discografico!
+Ein Telefon. Es gehört Syd.
+Un telefono. È di Syd.
+Achmed selber haben Ohrmuschel.
+Anche Achmed avere una cornetta.
+Ich könnte das Kabel aus der Telefondose ziehen ...
+Potrei estrarre il cavo dalla presa del telefono...
+... aber dann habe ich keine Verbindung mehr.
+... ma poi non avrei nessuna connessione.
+Also lasse ich es sein.
+Perciò lo lascerò lì.
+Syd braucht sein Telefon.
+Syd ha bisogno del suo telefono.
+Klasse. Aber Achmed niemand haben zum anrufen.
+Fantastico. Ma Achmed non deve chiamare nessuno.
+Nö.
+No.
+Wen sollte ich denn anrufen?
+Chi dovrei chiamare?
+Auf Syds Kosten telefonieren? Gute Idee. Aber wen rufe ich an?
+Telefonare a carico di Syd? Buona idea. Ma chi dovrei chiamare?
+Achmed nicht wollen zerstören Ohrmuschel von Syd.
+Achmed non voleva distruggere la cornetta di Syd.
+Da lässt sich nur die Lautstärke ändern. Sonst nichts.
+Solo il volume può essere modificato. Nient'altro.
+Ohrmuschel stehen gut.
+La cornetta sta su bene.
+Das würde Syd bemerken.
+È quello che noterà Syd.
+Syds Gitarre sein.
+Essere la chitarra di Syd.
+Meine Gitarre.
+La mia chitarra.
+Ich spiele ziemlich gut.
+Io suono abbastanza bene.
+Eine Gitarre, vermutlich gehört sie Syd.
+Una chitarra. Presumibilmente appartiene a Syd.
+Achmed nichts wollen mit Gitarre.
+Achmed non vuol avere nulla a che fare con la chitarra.
+Vielleicht später.
+Forse più tardi.
+Das wäre was, aber die Oberfläche ist so enpfindlich, dass Syd es bemerken würde, wenn ich sie anfasse.
+Sarebbe interessante, ma la superficie è così delicata che Syd se ne accorgerebbe subito se la toccassi.
+Achmed nicht können spielen.
+Achmed non sa suonare.
+Keine Chance.
+Niente da fare.
+BenutzeGitarre
+Usa la chitarra (???)
+Der Typ, der unter mir wohnt ...
+Il tizio che abita al piano di sotto...
+... läuft dann wieder Amok!
+... si arrabbierebbe di nuovo!
+Ach ne, da wohnt ja jetzt Achmed.
+Ora lì ci vive Achmed.
+Ich kann leider nicht spielen.
+Mi dispiace, non so suonare.
+Du haben lustiges Idee.
+Tu avere avuto un'idea divertente.
+Dadurch wird sie nur kaputt.
+Così la romperai.
+Ich habe keine Ahnung, was man an einer Gitarre öffnen könnte.
+Non ho idea di cosa si possa aprire con una chitarra.
+Gitarre sein bereits zu.
+La chitarra essere già chiusa.
+Da gibt es nichts zu schließen.
+Non c'è niente da chiudere.
+Achmed nix wollen verrücken Gitarre.
+Achmed non vuole spostare la chitarra.
+Die steht da ganz gut.
+Sta bene dov'è.
+Achmed nix wollen verrücken Gitarre
+Achmed non vuole spostare la chitarra.
+Syds Buch.
+Il libro di Syd.
+Mein Buch.
+Il mio libro.
+Mein einziges Buch.
+Il mio unico libro.
+EIN Buch. Recht mager für einen Musiker.
+UN libro. Piuttosto sottile per un musicista.
+Achmed bereits gelesen. War langweilig. Brauchen nicht mitzunehmen.
+Achmed l'ha già letto. Era noioso. Non c'è bisogno di portarselo dietro.
+Achmed bereits gelesen. War langweilig.
+Achmed l'ha già letto. Era noioso. 
+Es ist ein Buch über Musik.
+È un libro sulla musica.
+Achmed kennen Buch.
+Achmed conosce quel libro.
+Ich kenne es mittlerweile auswendig.
+Ormai lo conosco a memoria.
+'Für den effektiven Einsatz eines Schlagzeuges, bedarf es zunächst einmal zweier Schläger.
+"Per l'uso efficace di una batteria, è necessario avere due bacchette.
+Die Schläger, deren Holz...
+Le bacchette, il cui legno...
+...'
+..."
+Starkes Stück.
+Pezzo forte.
+Lustiges Idee.
+Idea divertente.
+Das ist bereits zu.
+È già chiuso.
+Buch scheinen festgeklebt, oder Achmed nicht fest genug versucht hat.
+Il testo sembra essere arenato lì, oppure Achmed non ci ha messo più la buona volontà.
+Das steht da ganz gut.
+Lì sta perfettamente.
+Ein Pokal. Syd haben bekommen für bekloppt sein auf Schlagzeug.
+Una coppa. Syd l'avere vinta perché essere impazzito sulla batteria.
+Mein Pokal ...
+Il mio trofeo...
+... für das beste Schlagzeug-Solo ...
+... per il miglior assolo di batteria...
+Ein Pokal. Den hat Syd bekommen, weil er gut schlagzeugen kann.
+Una coppa. Syd l'ha vinta perché è un bravo batterista.
+Syd haben Achmed mal auf Finger beklopft, als Achmed ihn anfassen wollte.
+Syd avere battuto sul dito di Achmed una volta, quando Achmed cercò di toccarlo.
+Er ist sauber poliert. Wenn ich ihn anfasse, bekommt er wieder Fettflecken.
+È pulito e lucido. Se lo tocco, si formeranno di nuovo delle macchie di unto.
+Ein sauber polierter Pokal.
+Una coppa pulita.
+Achmed nix haben rein zum tun.
+Achmed non avere nulla da fare.
+Ich wüsste nicht, mit was.
+Non ci penso proprio.
+Man könnte einen Trinkpokal daraus machen, aber...
+Si potrebbe usare come coppa per bere, ma...
+???
+???
+Geht's noch?
+Per fare che?
+Das war eine völlig sinnfreie Aktion.
+È stata un'azione totalmente insensata!
+Achmed nix gut in Pokale rücken.
+Achmed non è capace di usare le coppe.
+Der steht da ganz gut.
+Sta bene dov'è ora.
+Syds Chuck.
+La pianta Chuck di Syd.
+Auch ich habe einen Chuck.
+Anche io ho una pianta Chuck.
+Es ist einer der vielen Ableger von Dr. Freds Chuck.
+È una delle tanti discendenti della pianta Chuck del Dottor Fred.
+Eine Topfpflanze. Die erinnert mich stark an etwas.
+Una pianta in un vaso. Mi ricorda qualcosa.
+Achmed nicht sonderlich können mit Pflanzen.
+Achmed non va particolarmente d'accordo con le piante.
+Lieber nicht. Manchmal beißt er.
+Preferirei di no. A volte morde.
+Aua. Sie hat mich gebissen.
+Ahia! Mi ha morso!
+Erde von Pflanze sein feucht genug.
+La terra della pianta essere abbastanza umida.
+Ich habe ihn erst heute Morgen gegossen.
+L'ho annaffiata appena stamattina.
+Und mit was bitte?
+E con che cosa, per sapere?
+Eine Pflanze? Das macht irgendwie keinen Sinn.
+Una pianta? Ma non ha alcun senso.
+Chuck stehen gut.
+Chuck è bravo.
+Chuck steht da ganz gut.
+Chuck sta bene lì sopra.
+Ich klaue Syd doch nicht seinen Chuck...
+Non ruberò la pianta Chuck di Syd...
+... obwohl er es verdient hätte.
+... anche se lo meriterebbe.
+Ich habe Chuck heute schon gegossen.
+Ho già annaffiato Chuck oggi.
+Das Glas ist leer. Damit kann man nichts gießen.
+Il barattolo è vuoto. Non ci si può annaffiare nulla.
+Damit gießt man keine Pflanzen.
+Non è utile per annaffiare le piante.
+New Wave.
+New Wave.
+Interessant.
+Interessante.
+Ach ja ...
+Ah sì...
+Ich träume immer noch davon ...
+Sogno ancora...
+... eine eigene Band zu gründen.
+... di creare una mia Band.
+Einfache Buchstaben. Große Bedeutung.
+Lettere semplici. Grande importanza. (???)
+Dann wären Buchstaben weg.
+In quel modo le lettere scomparirebbero.
+Das sind doch nur Buchstaben.
+Sono solo delle lettere.
+Buchstaben an der Wand ... brauche ich nicht.
+Lettere sul muro... Non ne ho bisogno.
+Achmed nicht verstehen.
+Achmed non capice.
+Teuer ausschauen.
+Guardare prezioso. (??? il traduttore mi dà "costoso")
+Das Teil hat mich ein Vermögen gekostet.
+Quest'affare mi è costato una fortuna.
+Das scheint ziemlich teuer zu sein.
+Sembra essere piuttosto costoso.
+Zu schwer sein.
+Essere troppo pesante.
+Die scheint mir zu schwer zum heben.
+Sembra troppo pesante da sollevare.
+Wo gehen ein?
+Dove andare?
+Cooler Sound.
+Sound carino.
+Leider nicht von mir ...
+Purtroppo non è roba mia.
+Das lass ich mal lieber sein.
+Ho intenzione di smettere.
+Die lässt sich nur ein- und ausschalten.
+Può essere solo acceso o spento.
+Das bringt mir nichts.
+Questo non porta a niente.
+Die lässt sich nur anschauen und benutzen.
+Può essere solo esaminato o usato.
+Achmed können nix erkennen, was interessant wäre.
+Achmed non vede assolutamente nulla di interessante.
+Ich sehe die Wand des Nachbarhauses.
+Vedo il muro della casa accanto.
+Leider keine Fenster auf dieser Seite ...
+Peccato non ci siano finestre da questo lato.
+Fenster sein fest gemacht.
+La finestra essere bloccata.
+Und wie genau stellst du dir das vor?
+E come pensi di farlo?
+Das macht keinen Sinn.
+Non ha senso.
+Achmed leicht frieren. Fenster bleiben zu.
+Achmed si raffredda facilmente. Le finestre restano chiuse.
+Es ist zu kalt draussen.
+Fuori fa troppo freddo.
+Fenster schon zu sein.
+Le finestre essere già chiuse.
+Warum sollte ich das zu'ne Fenster nochmals schließen?
+Perché dovrei chiudere una finestra che è già chiusa?
+Mein Portemonnaie.
+Il mio portafoglio.
+Um mir mit dem Inhalt etwas zu kaufen, muss ich es erstmal nehmen.
+Per poterci acquistare qualcosa, prima devo prenderlo.
+Dafür muss ich es erstmal nehmen.
+Prima dovrei prenderlo.
+Mal davon abgesehen, dass es bereits zu ist, muss ich es erstmal nehmen.
+A parte il fatto che è già chiuso, prima dovrei prenderlo.
+Es bringt nichts, das Portemonnaie auf dem Tisch zu bewegen.
+Non serve spostare il portafoglio sul tavolo.
+No hotspot
+
+Tür>v
+porta>v
+Stereo-Anlage
+impianto stereo
+Fenster
+finestra
+Schild
+insegna
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Tür
+porta
+Schlagzeug
+batteria
+Bett
+letto
+Telefon
+telefono
+E-Gitarre
+chitarra elettrica
+Buch
+libro
+Pokal
+trofeo
+Chuck
+
+Das ist mal wieder typisch.
+Ci risiamo.
+Wenn ich Hunger habe, ist nichts zum Futtern im Kühlschrank.
+Quando capita di aver fame, non c'è mai da mangiare in frigorifero.
+Muss ich wohl oder übel zum PizzaShack runter.
+Non mi rimane che andare da PizzaShack.
+Argg!
+Diamine!
+Ohne Geld kaufts sich schlecht.
+Senza soldi, non si mangia.
+So ein Sch....
+Ma che cav...
+Und dann fragen sich diese dämlichen Politiker warum der Schwarzmarkt blüht.
+E poi quegli stupidi di politici si chiedono come mai il mercato nero sia così fiorente.
+Ach, stimmt.
+Già, vero.
+Das Ding ist kaputt.
+Questa cosa è rotta.
+Muss ich mir etwas anderes überlegen.
+Devo pensare a qualcos'altro.
+Das funktioniert nicht. Die Mikrowelle ist immer noch kaputt.
+Non funziona. Il microonde è ancora rotto.
+Warum sollte ich das in die Mikrowelle stecken?
+Perché dovrei mettere questa roba nel forno a microonde?
+Ein Wasserhahn. Nichts besonderes.
+Un rubinetto. Niente di speciale.
+Die Spüle ist bereits voll.
+Il lavandino è già pieno.
+Soll ich etwa den Wasserhahn rausreißen?
+Vuoi che smonti il rubinetto?
+Der ist bereits zu.
+È già chiuso.
+Da gibts nicht zum dran rumdrücken.
+Non si spuò spingere.
+Das Glas ist nicht leer.
+Il barattolo non è vuoto.
+Meine Spüle. Ausnahmsweise liegt mal kein dreckiges Geschirr drin.
+Il mio lavandino. Una volta tanto, non ci sono dentro piatti sporchi.
+Ich habe nichts zu spülen.
+Non ho niente da lavare.
+Ich möchte das Spülbecken nicht rausreißen.
+Non voglio smontare il lavandino.
+Gut, lassen wir das Wasser eben wieder ab.
+Va beh, scarichiamo l'acqua.
+Der Abfluss ist bereits offen.
+Lo scarico è già aperto.
+Der Abfluss ist bereits zu.
+Lo scarico è già chiuso.
+Den Abfluss mache ich zu, wenn ich Wasser einlasse.
+Chiudo lo scarico quando voglio riempire di acqua il lavandino.
+Dafür muss ich erst Wasser einlassen.
+Per farlo, mi servirebbe che fosse pieno d'acqua.
+Der Hamster ist schon tot.
+Il criceto è già morto.
+Warum sollte ich das tun?
+Perché dovrei farlo?
+Gut, schütten wir das Glas aus.
+Va bene, svuotiamo il barattolo.
+Die Socke will ich nicht in die Spüle kippen.
+Non voglio buttare il calzino nel lavandino.
+Das muss nicht gespült werden.
+Non deve essere lavato.
+Wo ist der Käse?
+Dov'è il formaggio?
+Hehehehe ...
+Eheheheh...
+Der ist mir zu schwer.
+È troppo pesante per me.
+Der ist doch schon offen.
+È già aperto.
+Damit er umfällt?
+Per far sì che cada?
+Syds Tisch sein.
+Essere il tavolino da pranzo di Syd.
+Das ist mein Tisch. An ihm esse ich immer.
+Questo è il mio tavolo da pranzo. Mangio sempre qui.
+Ein Tisch, der in der Küche steht.
+Un tavolino nella cucina.
+Achmed haben selber Tisch.
+Achmed avere il proprio tavolino.
+Vielleicht sollte ich ihn einfach nehmen.
+Forse riuscirei a raccoglierlo.
+Vielleicht lasse ich ihn lieber stehen.
+Ma è meglio lasciarlo lì.
+Achmed nix haben Hunger.
+Achmed non avere fame.
+Sich an den Tisch setzen und etwas essen. Keine schlechte Idee.
+Sedersi al tavolo per mangiare un boccone. Non male come idea.
+Wenn ich etwas zu essen hier hätte.
+Se solo ci fosse qualcosa da mangiare.
+Achmed sich fragen, wie sollen das machen?
+Achmed si chiede: come posso farlo?
+Achmed nix wollen umschubsen Tisch.
+Achmed non vuole spingere il tavolino.
+Gerät zum heiß machen von Sachen. Achmed wollten mal Katze trocknen.
+Dispositivo per riscaldare le cose. Achmed voleva asciugare il gatto, una volta.
+Zum Glück haben Syd, Achmed davon abgehalten.
+Fortunatamente Syd avere fermato Achmed.
+Meine Mikrowelle. Leer!
+Il mio microonde. Vuoto!
+Früher hab' ich schlimme Sachen damit gemacht ...
+Una volta lo usai per farci delle cose orribili...
+Achmed haben selber Heiß-mach-Dingens.
+Achmed avere il proprio giocattolo-riscaldante.
+Plinggg.
+Plinggg.
+Ich hab grad kein Ei bei mir.
+Non ho un uovo con me.
+Machen Scherz mit Achmed?
+Stai prendendo in giro Achmed?
+Die ist schon auf.
+È già aperto.
+Das nix bringen Achmed.
+Achmed non può farlo. (???)
+Die steht da schon richtig.
+Sta bene dov'è.
+Fernbedienung sein.
+Essere il telecomando.
+Die Fernbedienung.
+Il telecomando.
+Klasse.
+Fantastico.
+Geladene Stromgeneratoren drin sein.
+Essere due batterie cariche.
+Im Batteriefach sind zwei voll geladenen Akkus, sonst nichts.
+Nel vano batterie ci sono solo due pile cariche.
+Schon zu sein.
+Essere già chiuso.
+Das Batteriefach ist bereits zu.
+Il vano batterie è già chiuso.
+Achmed besser nehmen.
+Achmed farebbe bene a prenderlo.
+Vielleicht sollte ich sie einfach nehmen.
+Forse potrei raccoglierlo.
+Syd haben altes Fenrseher.
+Syd avere un vecchio televisore.
+Mein Fernseher.
+Il mio televisore.
+Sollte in keinem Haushalt fehlen!
+Non deve mancare in nessuna famiglia!
+Ein normaler Röhrenfernseher. Alt, aber absolut tauglich.
+Un normale televisore a tubo catodico. Vecchio, ma assolutamente adatto.
+Sofern man keine Sender in HD schaut.
+A meno che non si guardino i canali in HD.
+Ja, vielleicht sollte ich ihn einfach nehmen. Aber er ist ziemlich schwer.
+Sì, forse riuscirei a raccoglierlo. Ma è piuttosto pesante.
+Ich verschiebe das auf später.
+Lo sposterò più tardi.
+Achmed brauchen Fernbedienung.
+Achmed ha bisogno di un telecomando.
+Er steht zu weit oben.
+È troppo lontano.
+Ich brauche die Fernbedienung!
+Mi serve il telecomando!
+Achmed nix wollen machen kaputt Seherfern von Syd.
+Achmed non vuole rovinare le forbici di Syd.
+Ich brauche momentan keine elektronischen Bauteile.
+Al momento non ho bisogno di componenti elettronici.
+Der Deckel ist bereits zu.
+Lo schermo è già montato.
+Nix da.
+Niente da fare.
+Dann fällt er herunter.
+Così cadrebbe.
+Der Weltraum. Unendliche Langweile.
+L'universo. Una noia senza fine.
+Kaffee, schwarz, Junge! Oder muss erstmal die Fäuste fliegen lassen?
+Spazio: ultima frontiera. Questi sono i viaggi della nave stellare Enterprise.
+Darf ich jetzt endlich auch mal Captain sein?
+Diverrò mai capitano?
+Nichts interessantes.
+Niente di interessante.
+Syds Kühlschrank sein.
+Essere frigorifero di Syd.
+Mein Kühlschrank.
+Il mio frigorifero.
+Echt cool.
+Davvero figo.
+Ein Kühlschrank. Er ist Bestandteil der Wohnung.
+Un frigorifero. È parte integrante dell'appartamento.
+Scherzkeks!
+Non scherzare!
+Bereits zu sein.
+È già chiuso.
+Gib's auf, der ist schon zu.
+Arrenditi, è già chiuso.
+Dingens zum heiß machen.
+Cosa per riscaldare.
+Meine Mikrowelle.
+Il mio microonde.
+Echt heiss.
+È uno schianto.
+Eine Mikrowelle.
+Un microonde.
+Vergiss es.
+Lascia perdere.
+Achmed könnten nehmen, und packen in Karton. Aber sonst bereits sein zu.
+Achmed lo poterbbe prendere e imballare in uno scatolone. Ma forse essere eccessivo. (???)
+Unsinnige Aktionen bringen kein gutes Ergebnis.
+Le azioni senza senso non producono un buon risultato.
+Stehen gut da.
+Sono in buona forma. (???)
+Bewegt sich nicht.
+Non si sposta.
+Mit was soll ich es benutzen?
+Con cosa dovrei usarlo?
+Dazu muss ich das Glas erstmal nehmen.
+Prima devo prendere il barattolo.
+Das Glas zu bewegen bringt genau gar nichts.
+Spostare il barattolo non porterà a niente.
+Eine Packung Milch.
+Una confezione di latte.
+Dafür muss ich sie erstmal aus dem Kühlschrank nehmen.
+Devo prima toglierlo dal frigorifero.
+Offen oder zu, das macht keinen Unterschied.
+Aperto o chiuso, non fa alcuna differenza.
+Was habe ich davon, wenn ich die Packung verschiebe?
+Cosa ci guadagni a spostare il latte?
+Fernseher
+televisore
+Kühlschrank>o
+frigorifero>o
+Mikrowelle>o
+microonde>o
+Wasserhahn
+rubinetto
+Spüle
+lavandino
+Kühlschrank>c
+frigorifero>c
+Tisch
+tavolo
+Mikrowelle (offen)>c
+microonde (aperto)>c
+Play-Mummy %d.
+Calendario-Mummia %d.
+Den kaufe ich mir jedes Jahr.
+Lo compro ogni anno.
+Achmed nix brauchen tote eingewickelte nackte Frauen auf Blätter.
+Achmed non ha bisogno di un morto avvolto e donne nude sulle foglie. (???)
+Lassen wir ihn wo er ist.
+Meglio lasciarlo dove si trova.
+Nett sein.
+Essere gentile.
+Ich blätter erst nächsten Monat um, damit die Spannung bleibt.
+Mantengo la pagina fino al mese prossimo per non rovinarmi la sorpresa.
+Viele eingewickelte Frauen räkeln sich mehr oder weniger auf den einzelnen Blättern dieses Kalenders.
+Molte donne-mummia si fanno avvolgere con i fogli di questo calendario. (???)
+Mache estethisch, manche leicht anzüglich. Aber immer so, dass man gerade so nichts sieht.
+Danno un risultato estetico, a volte un po' osceno... Ma sempre in modo che non si veda nulla. (??)
+Achmed nicht schrauben an Syds Kalender. Achmed einmal versucht...
+Achmed non avviterà il calendario di Syd. Achmed una volta ci ha provato... (???)
+Wenn ich ihn schließe zeigt er nur das Deckblatt.
+Una volta chiuso, mostra solo la copertina.
+Aber dann weiß ich das aktuelle Datum nicht mehr.
+Poi non saprei più la data corrente.
+Dann fällt er nur runter.
+Poi cadrebbe.
+Achmed auch haben Haken für Schlüssel.
+Achmed avere anche i ganci portachiavi. (??? il traduttore usa il plurale su Achmed)
+Hier hänge ich immer meine Schlüssel auf.
+È qui che appendo le chiavi.
+Hey, wo sind denn meine Schlüssel?
+Ehi, dove sono le mie chiavi?
+Ein Schlüsselhaken. Scheinbar ohne Schlüssel.
+Un gancio portachiavi. Apparentemente senza chiave.
+Sein festgemacht an Wand.
+Essere il chiodo che lo fissa alla parete.
+Hnngh. Sitzt verdammt fest in der Wand.
+Uff... È saldamente fissato nel muro.
+Achmed nix wollen seine Schlüssel hängen an Haken von Syd.
+Ahmed non vuole appendere le chiavi ai ganci di Syd.
+Ich habe keinen Schlüssel den ich aufhängen könnte.
+Non ho chiavi da appendere.
+Witzbold.
+Vuoi fare dello spirito?
+Was sollen Achmed?
+Cosa dovrebbe fare Achmed?
+Was soll ich denn damit?
+Cosa dovrei farci?
+Poster von Syd sein. Achmed vergessen, wer Mann auf Poster.
+Essere il manifesto di Syd. Ahmed non ricorda chi è l'uomo sul manifesto.
+Oh man, dieses Poster ist sooo alt.
+Ehi amico, questo manifesto è taaaaaaanto vecchio.
+Wer ist eigentlich dieser Ron Gilbert?
+Chi è questo Ron Gilbert, comunque?
+Ein Poster aus vergangenen Tagen.
+Un manifesto del passato.
+Achmed nix zerstören Poster oder Wand von Syd.
+Achmed non distrugge il manifesto nel muro di Syd.
+Dann geht die Tapete kaputt!
+Poi si potrebbe rompere la carta da parati.
+Jaja!
+Sì, sì!
+Poster sein festgemacht.
+Il manifesto essere fissato.
+Das Poster lässt sich nicht von der Wand lösen.
+Il manifesto non può essere staccato dal muro.
+Das Poster ist fest mit der Wand verklebt. Nur mit viel Geduld bringt man es von der Wand.
+Il manifesto è incollato saldamente al muro. Solo con molta pazienza si potrebbe riuscire a staccarlo.
+Wenn ich es von der Wand lösen könnte, dann kann ich es zusammenrollen.
+Se potessi staccarlo dal muro, potrei arrotolarlo.
+Fest an Wand gemacht sein.
+Essere saldamente fissato al muro.
+Das sitzt fest an der Wand.
+È fissato al muro.
+Gab einen Wasserschaden in Wohnung oben drüber.
+È pieno d'acqua a causa delle infiltrazioni che giungono dal piano superiore.
+Der ist bereits in Verwendung.
+È già in funzione.
+Nein. Dann gäbe es hier bald eine Sauerei.
+No. Succederebbe presto un gran pasticcio qui.
+Da ist kein Deckel drauf, den man öffnen könnte.
+Non ha alcun coperchio che si possa aprire.
+Da ist kein Deckel drauf, den man schließen könnte.
+Non ha alcun coperchio che si possa chiudere.
+Besser nicht. Wer weiß, wie viel da noch runter kommt.
+Meglio di no. Chissà fino a che punto riuscirebbe a reggere.
+Da gibts nichts reinzuleeren.
+Non c'è nulla da svuotare.
+Kalender
+calendario
+Schlüsselhaken
+gancio portachiavi
+Poster
+manifesto
+Schranktür
+armadio
+Eimer
+secchio
+Leerer Schrank sein.
+Essere un armadio vuoto.
+Nur noch meine Tabletten gegen Schlafprobleme sind da.
+Ci sono solo le mie pastiglie per la cura dell'insonnia.
+Mein kleiner Schrank.
+Il mio mobiletto del bagno.
+Ein guter Platz für Duschgel, Haargel, Spargel ...
+Un buon posto per tenere il gel doccia, il gel per capelli, gli asparagi...
+Ach nein. Der Spargel kommt in den Kühlschrank.
+No. Gli asparagi devono essere messi in frigo.
+Ein leeres Badezimmerschränckchen.
+Un armadietto del bagno vuoto.
+Achmed selber haben einen.
+Anche Achmed ne avere uno.
+Das macht in meinen Augen keinen Sinn.
+Secondo me questo non ha senso.
+Dann fällt es von der Wand.
+Poi cadrebbe dal muro.
+Das sein Kette für Toilette.
+Essere la sua catena della toilette.
+Die Klospülung.
+La catena per lo sciacquone.
+Geht nicht ab.
+Non si stacca.
+Die ist am Spülkasten festgemacht.
+È attaccata allo sciacquone.
+Krass!
+Impressionante!
+Toller Sound!
+Che rumore forte!
+Achmed könnten nehmen Zange...
+Ahmed potrebbe prendere delle pinze...
+Ich könnte ein Glied auseinanderbiegen und den Handgriff abnehmen, aber dann kann ich nicht mehr richtig das Klo spülen.
+Potrei tirarla via per indossarla come catenina con l'anello, ma poi non riuscirei più a tirare lo sciacquone.
+Nix.
+No.
+Das geht nicht.
+Non posso farlo.
+Syds Schrank.
+L'armadio di Syd.
+Ein kleiner Schrank.
+Un mobiletto del bagno.
+Der ist an der Wand festgemacht.
+È fissato al muro.
+Das Schränkchen ist bereits geschlossen.
+Il mobiletto è già chiuso.
+Dann fallen von Wand.
+Poi cadrebbe dal muro.
+Damit er von der Wand fällt?
+Per staccarlo dalla parete?
+Achmed mal wieder krass aussehen.
+Achmed ancora una volta si dimostra fantastico. (???)
+Mann, ich sehe sooo cool aus.
+Amico, sono così cariiiiiiiiino!
+Seht euch vor, Ladys.
+Sgranate gli occhi, belle ragazze!
+Syd ist in der Stadt.
+C'è Syd in città.
+Ist da ein graues Haar?
+C'è un capello grigio?
+Neee.
+Naaah.
+Der geht nix ab.
+Non si stacca.
+Dann hab ich keinen Spiegel mehr, in dem ich mich morgens betrachten könnte.
+Poi non avrò più uno specchio in cui guardarmi la mattina.
+Was soll ich mit einem Spiegel?
+Cosa dovrei fare con uno specchio?
+Der will nicht öffnen.
+Non si apre.
+Der lässt sich nicht öffnen.
+Non si riesce ad aprire.
+Der will nicht schließen.
+Non si chiude.
+Der lässt sich nicht schließen.
+Non si riesce a chiudere.
+Hnngh.
+Uff...
+Das sein wie Strand im Haus.
+Essere come una spiaggia in casa.
+Aber ohne Sand.
+Ma senza sabbia.
+Meine Badewanne. In ihr nehme ich jeden Samstag ein heißes Bad.
+La mia vasca da bagno. Ci faccio il bagno caldo tutti i sabati.
+Eine handelsübliche Badewanne.
+Una normale vasca da bagno.
+Wie Achmed sollen schaffen das?
+Come pensi che Achmed possa farlo? (???)
+Das schaffe ich nicht allein.
+Non ci riuscirei mai.
+Achmed brauchen kein Bad jetzt.
+Achmed non ha bisogno di fare un bagno ora.
+Dann schalt mal ab. Ich zieh mich derweil aus und nehme ein schönes Bad.
+Allora spegni il PC. Nel frattempo mi tolgo i vestiti e faccio un bel bagno.
+In fremder Leute Badewanne?
+Nella vasca di quelle strane persone?
+Diese Badewanne besitzt bereits ab Werk eine große Öffnung.
+Questa vasca è stata già fabbricata con una grande apertura
+Die Öffnung an der Badewanne lässt sich nicht schließen.
+L'apertura della vasca non può essere chiusa.
+Du geben Achmed nix guten Ratschlag.
+Tu non stai dando dei buoni consigli ad Achmed.
+Fällt dir nichts besseres ein?
+Non riesci a pensare a qualcosa di meglio?
+Dafür lasse ich kein Bad ein. Eine Spüle täte es auch.
+Non gli faccio il bagno. Il lavandino è sufficiente allo scopo
+Der können Wasser machen.
+Possono fare l'acqua. (??? chi? cosa?)
+Mein Waschbecken.
+Il mio lavandino.
+Syds Waschbecken.
+Il lavandino di Syd.
+Achmed brauchen nicht waschen Hände.
+Ahmed non ha bisogno di lavarsi le mani.
+Dumm di dumm.
+*motivetto fischiettato*
+So fertig, meine Hände sind jetzt wieder sauber.
+Fatto! Le mie mani ora sono di nuovo pulite.
+Geht nix.
+Niente da fare.
+Die Socke will ich nicht in das Waschbecken kippen.
+Non voglio mettere il calzino nel lavandino.
+Das der Ort sein, wo man macht 'Geschäft'.
+Questo essere il posto dove puoi fare gli "affari" tuoi.
+Seit wann machen damit Geld?!?
+Da quanto tempo hai fatto soldi?!?
+Mein gutes Klo. Auf ihm habe ich schon viele \"Sitzungen\" gehabt.
+Il mio caro gabinetto. Ci ho fatto non so quante \"sedute".\
+Eine Kloschüssel. Diese hier steht in Syds Wohnung.
+Un gabinetto. Questo è nell'appartamento di Syd.
+Geht klar Cheffe.
+L'hai preso, capo. (???)
+Ja klar.
+Già, certo.
+Du machen aber Spiel aus, wenn Achmed macht sein 'Geschäft', klaro?!?
+Ma si gioca quando Achmed fa gli "affari" suoi, giusto?
+Dreh dich mal um ...
+Prima girati...
+Achmed nicht scharf sein zu sehen, was sein im Klo.
+Achmed non vuol far vedere cosa succede quando essere nel gabinetto. (???)
+Zur Zeit verspüre ich kein Bedürfnis.
+Al momento non ne ho bisogno.
+Sein schon zu.
+Essere già chiuso.
+Der Deckel ist schon zu.
+Il coperchio è già chiuso.
+Nix bewegt sich.
+Non si muove niente.
+Das bewegt sich nicht.
+Non si può spostare.
+Ich schütte grundsätzlich nichts in die Toilette.
+Non sverserò il contenuto nel gabinetto.
+Ich spüle nichts in Klo runter. Gibt nur Ärger mit dem Vermieter.
+Non scarico niente nel gabinetto. Mi procurerebbe solo guai col padrone di casa.
+Eine Dose Schlaftabletten.
+Una confezione di sonniferi.
+Vorher muss ich sie nehmen.
+Come prima cosa devo prenderli.
+Die Dose im Schrank zu bewegen bringt nichts.
+Spostare la confezione nell'armadio non porta a nulla.
+Klospülung
+catena per lo sciacquone
+kleiner Schrank
+mobiletto del bagno
+Spiegel
+specchio
+Badewanne
+vasca da bagno
+Waschbecken
+lavandino
+Toilette
+gabinetto
+Kleiner Schrank
+mobiletto del bagno
+Würde mich ja interessieren, wer das verbockt hat.
+Mi interesserebbe sapere chi ha incasinato tutto.
+Ich kanns mir denken.
+Posso immaginarlo.
+Was macht ihr denn da?
+Cosa state facendo, ragazzi?
+Nach was siehts denn aus?
+A te cosa sembra?
+Bank überfallen.
+Un furto per la banca.
+Irgendwer aus der Firma hat den Kontoauszugdrucker hier aufstellen lassen, anstatt in unserer Filiale.
+Qualcuno della compagnia ha fatto installare la stampante per gli estratti-conto bancari qui, anziché nella nostra filiale.
+Und wir dürfen hinterher wischen.
+E alla fine ci tocca pure ripulire.
+Den Verantwortlichen würde ich rausschmeißen.
+Licenzierei il responsabile.
+Wurde er bereits.
+È stato già fatto.
+Hat aber seltsamerweise gleich ein neues Jobangebot bekommen.
+Stranamente, ha ottenuto subito un'altra offerta di lavoro.
+Wirklich? Als was?
+Davvero? E da chi?
+Irgendwas mit \"Flughäfen bauen, Deutschland\".
+Ha a che fare con \"La costruzione aereoportuale tedesca\".
+Ich dachte, er ist nochmal zur Uni gegangen und studiert jetzt Informatik?
+Da quanto ricordo, non era tornato all'Università per studiare Informatica?
+Auch möglich.
+È assai probabile.
+Seit ihr verwandt?
+Siete forse parenti?
+Warum fragst du?
+Perché lo chiedi?
+Ihr seht euch so ähnlich?
+Cioè, perché vi assomigliate così tanto?
+Das liegt daran, das wir bei ATM U auch alles über das richtige Aussehen von Bänkern lernen.
+Questo perché alla ATM U impariamo proprio tutto sul perfetto aspetto dei banchieri.
+ATM U?
+ATM U?
+Universität fürs Bankwesen.
+Università per i Banchieri.
+Ich hab immer noch nichts gegessen.
+Non ho ancora mangiato nulla.
+Ich sollte wohl klingeln.
+Credo che dovrei suonare il campanello.
+Achmed sich stets fragen: Was sein hinter Tür?
+Achmed si chiede sempre: cosa essere dietro la porta?
+Was war nochmal hinter dieser Tür?
+Cosa c'è dietro questa porta?
+Vielleicht Labor oder Schrank mit Besen?
+Forse un laboratorio? O magari è un ripostiglio con le scope?
+Besenkammer? Waschküche? Keller?
+Un ripostiglio? Una lavanderia? Un seminterrato?
+Verschlossen sein.
+Essere bloccata.
+Die ist verschlossen.
+È chiusa.
+Ist schon zu.
+È ben chiusa.
+Das wäre eine Verschwendung der Milchsockensäure.
+Sarebbe uno spreco di acido latteocalzettinico.
+Das sein sehr viele schöne Kasten.
+Essere proprio una bella cassetta.
+Jeder Mieter hat hier einen eigenen Briefkasten.
+Ogni inquilino ha la sua cassetta postale.
+Wo Achmeds bloß sein?
+Dove essere quella di Achmed?
+Welcher gehört mir eigentlich?
+Qual è la mia?
+Achmed nix brauchen Briefdings.
+Comunque Achmed non ha bisogno di una cassetta postale.
+Nein, die Briefkästen bleiben an der Wand.
+No, le cassette postali rimangono sulla parete.
+Wo haben Achmed seinen Schlüssel?
+Dove essere la chiave di Achmed?
+Ich habe den Schlüssel nicht dabei ...
+Non ho portato la chiave...
+Sein zu.
+Essere chiuso.
+Die sind schon zu.
+Sono già chiuse.
+Gut.
+Bene.
+Das sein Achmeds Türklingel.
+Questo essere il campanello di Achmed.
+Das ist Achmeds Türklingel.
+Questo è il campanello di Achmed.
+Nix öffnet.
+Non si apre.
+Es öffnet niemand.
+Non risponde nessuno.
+Löschen von brennenden Feuer.
+L'estintore per spegnere il fuoco.
+In dem Kasten ist der Feuerlöscher.
+Nell'armadietto c'è l'estintore.
+Wo brennt?
+Ma il fuoco dov'è?
+Das ist so Vorschrift.
+A norma di legge.
+Nix brennt, also Achmed auch nicht brauchen.
+Niente brucia, quindi Achmed non ne ha bisogno.
+Ich brauche im Moment keinen Feuerlöscher.
+Non ho bisogno di un estintore al momento.
+Hier sein kein Feuer!
+Qui essere nessun fuoco!
+Nein, nur in Notfällen!
+No, solo in caso di emergenza!
+Sollen umfallen, ja?
+Dovrebbero cadere, giusto?
+Das sein Eimer für Müll.
+Essere il secchio per i rifiuti.
+Das ist der Mülleimer.
+È il cestino dell'immondizia.
+Nein Effendi.
+No, Effendi.
+Achmed nix haben zum tun rein.
+Achmed non avere nulla a che fare.
+Wenn ich was habe zum Reinwerfen.
+Volentieri, se avessi qualcosa da buttar via.
+Das sein bereits auf.
+Essere già aperto.
+Ist bereits auf.
+È già aperto.
+Eimer nix haben Deckel.
+I secchi non avere coperchi.
+Der hat keinen Deckel.
+Non ha il coperchio.
+Pffft.
+Pffft.
+Sein Lüftungsschacht.
+Essere la presa d'aria.
+Ein Lüftungsschacht.
+Una presa d'aria.
+Keine Lust.
+Niente da fare.
+Das bleiben zu.
+Deve rimanere chiuso. (???)
+Das erinnert mich an früher, als ich hier mal ein Stück Käse versteckt hatte ...
+Mi torna in mente quando ci nascosi un pezzo di formaggio...
+Da gehts nach draußen.
+Questa è la via d'uscita.
+Die Treppe kann ich umsonst benutzen.
+Posso usare le scale gratis.
+Ich möchte die Milch nicht über die Treppe schütten.
+Non voglio versare il latte giù per le scale.
+Die Treppe braucht keinen lila Anstrich.
+Le scale non hanno bisogno di una verniciata di lilla.
+Die Treppe muss nicht weggeätzt werden.
+Le scale non devono essere sciolte.
+Da gehts nach oben.
+Da qui si va di sopra.
+Eisentür
+porta di ferro
+Briefkästen
+cassette postali
+Türklingel
+campanello
+Feuerlöscher
+estintore
+Mülleimer
+cestino
+Lüftungsschacht
+presa d'aria
+nach draußen
+uscita
+nach oben
+piano di sopra
+Achmed sollten vorher klingeln.
+Achmed dovrebbe suonare, prima.
+Hier niemand wohnen.
+Qui non ci vive nessuno.
+Hier wohnt jetzt Inspektor Clouso.
+Ora qui ci vive l'ispettore Clouso.
+Hier wohnt zur Zeit niemand.
+Nessuno vive qui al momento.
+Tür sein fest.
+La porta essere bloccata.
+Die Tür ist fest mit dem Rahmen verbunden.
+La porta è fissata saldamente al suo telaio.
+Achmed nix benutzen wollen.
+Achmed non la vuole utilizzare.
+Tür sein geschlossen zu.
+La porta essere proprio chiusa.
+Abgeschlossen.
+Bloccata.
+Naja. Es ist ja auch nicht meine Wohnung.
+Beh, meno male che non è il mio appartamento.
+Tür sein doch schon zu.
+La porta essere già chiusa.
+Die Tür ist bereits zu.
+La porta è già chiusa.
+Achmed nix verstehen das.
+Achmed non capisce.
+Ähhh ... nein.
+Ehhh... no.
+Ich sollte hier mal ein Namensschild anbringen.
+Dovrei metterci un cartellino con il nome.
+Klingel von Syd.
+Il campanello di Syd.
+Sobald mir mein Nachname wieder eingefallen ist ...
+Non appena ricordo il mio cognome...
+Syd sein Achmeds Freund.
+Syd essere un amico di Achmed.
+Deckel bleiben drauf.
+Ci lascio sopra il coperchio. (???)
+Ich lass die Abdeckung lieber drauf.
+Forse è meglio lasciarci sopra il coperchio.
+Syd nicht machen auf. Vielleicht er nicht zuhause sein.
+Syd non lo aprirà. Forse non tornerà a casa. (???)
+Außer mir wohnt niemand da drin.
+Nessuno vive lì, tranne me.
+Mister äh ... 'Syd' scheint nicht da zu sein. Wie heißt der eigentlich sonst noch?
+Nessun "Signor Syd" sembra vivere qui. Come altro si chiama?
+Achmed nix machen das kaputt. Sonst immer heißen Achmeds Landsleute seien Baraber.
+Achmed non vuole rovinarlo. Sennò succede sempre che i connazionali di Achmed vengono considerati barbari.
+Nix können schließen hier.
+Qui non si può chiudere nulla.
+Die Abdeckung ist bereits drauf.
+C'è già il coperchio sopra.
+Schild zeigen nichts an.
+Il cartello non indica niente.
+Da steht nichts drauf.
+Non c'è scritto niente sopra.
+Hinterher Achmed wieder Schuld ...
+Poi Achmed si colpevolizza di nuovo...
+Dann fehlt aber eine Klingel.
+Non mi serve un campanello.
+Ich wüsste nicht, über was ich noch mit dem Inspektor reden sollte.
+Non so di quale altro argomento parlare con l'Ispettore.
+Hallo Inspektor.
+Salve, Ispettore.
+Achnmed sagen: \"NEIN\".
+Achmed dire: \"NEIN\".
+Achmed kriegen nicht lose.
+Achmed non può liberarsi.
+Die ist festgemacht.
+È fissato.
+Da gehts nach unten.
+Conduce di sotto.
+Ich möchte das Wasser nicht über die Treppe schütten.
+Non voglio versare l'acqua giù per le scale.
+Ein Handy.
+Un telefono cellulare.
+Dafür muss ich es erstmal aufheben.
+Prima dovrei prenderlo.
+Das muss dem Inspektor gerade aus der Tasche gefallen sein.
+Deve essere caduto dalla tasca dell'Ispettore.
+Jetzt gehört es mir!
+Adesso è mio!
+Das ist kein Klapphandy. Außerdem muss ich es erstmal aufheben.
+Non è un telefono fisso. Inoltre, prima dovrei prenderlo.
+Es bringt rein gar nichts, wenn ich es auf dem Fußboden hin und her bewege.
+Non porta a nulla se lo sposto avanti e indietro sul pavimento.
+Der dritte Stock ist momentan abgesperrt.
+Il terzo piano è attualmente inagibile.
+Gab einen Wasserschaden.
+C'è un problema di infiltrazione.
+Mit was soll die Bretter benutzen?
+A cosa dovrebbero servirmi quelle assi?
+Ich brauche weder das Schild, noch die Bretter.
+Non ho bisogno della insegna, né delle assi.
+Ich möchte den Weg nach oben nicht wieder öffnen. Wozu denn?
+Non voglio riaprire l'accesso. Perché dovrei farlo?
+Es bringt nichts, dran rum zu ziehen.
+Non serve a nulla tirarla.
+Es bringt nichts, dran rum zu drücken.
+Non serve a nulla spingerla.
+Tür>o
+porta>o
+1. Etage
+1. Piano
+Das sein Treppe zu Achmeds Wohnung.
+Essere le scale che portano all'appartamento di Achmed.
+Das ist die Treppe zu meiner Wohnung.
+Le scale che portano al mio appartamento.
+Achmed nicht verstehen dich.
+Achemd non ti ha capito.
+Leeres Plakat das sein.
+Essere il manifesto bianco.
+Das sein gutes Platz für Hinweis in fertiges Eppi.
+Essere un ottimo posto per qualche indizio in qualsiasi episodio completato. (???)
+Ein Plakat.
+Un manifesto.
+Ohne Aufdruck ...
+Senza scritte...
+Ein guter Platz für einen Hinweis ...
+Un ottimo posto per nascondere gli indizi...
+... in einer fertigen Episode.
+... in un episodio completato.
+Achmed nix nehmen \"Ronville-News\" mit. Achmed sein braves Bürger.
+Achmed non prenderà il \"Ronville-News\". Achmed essere un bravo cittadino. (???)
+Dann kann es keiner mehr lesen ...
+Quindi nessuno potrà leggerlo...
+... sobald etwas draufsteht.
+... quando ci sarà scritto sopra qualcosa.
+Hihihi ...
+Ihihih...
+Hahaha ...
+Ahahah...
+Klingelknöpfe.
+Una pulsantiera per campanelli.
+Recht nützliche Erfindung.
+Invenzione molto utile.
+Achmed haben genug von solchen.
+Achmed ne avere presi abbastanza. (??? oppure "ne ha abbastanza" cioè è stanco?)
+Die bleiben schön an der Wand.
+Sta molto bene attaccata al muro.
+Und nachher schimpfen alle über Achmed.
+E alla fine tutti se la prenderanno con Achmed.
+Aus dem Alter für Klingelstreiche ...
+Come quando facevo gli scherzi suonando i campanelli...
+... bin ich echt raus!
+... e poi scappavo via!
+Achmed nix wollen Schlag von Strom bekommen.
+Achmed non vuole prendere la scossa.
+Ich könnte die Kabel dahinter vertauschen ...
+Potrei invertire i cavi lì dietro...
+aber das wäre dasselbe wie ein Klingelstreich.
+... ma non sarebbe divertente quanto lo scherzo dei campanelli.
+Die sitzten bereits fest und verschlossen im Halteblech.
+I pulsanti sono già fissati dentro la piastra di bloccaggio.
+NEIN.
+NO.
+Keiner der Knöpfe klemmt.
+Nessuno dei pulsanti è bloccato.
+Hausnummer 4b.
+Numero civico 4b.
+Hier haben Achmed seine eigene Wohnung
+Qui Achmed avere il suo appartamento.
+Hier hab' ich meine eigene Bude ...
+Qui è dove abito io...
+Zu weit oben für Achmed.
+Troppo alto per Achmed.
+Ich komme nicht ran.
+Non ci arrivo.
+Wie soll ich die denn benutzen?
+Come posso usarlo?
+Zu weit oben - sein.
+Essere troppo in alto.
+Da geht es nach nebenan ... zum Pizza Shack.
+Da qui si va da... Pizza Shack.
+Schwarzes Dings lassen nicht zu.
+Questa cosa nera non lo permette. (forse è "il lupo cattivo non te lo lascerà fare"?)
+Der Teerbelag ist nicht flexibel genug.
+Il manto di asfalto non è piegabile.
+Das ist ein Hamster.
+È un criceto.
+Unübersehbar Eds geliebter Hamster.
+Ovviamente è l'amato criceto di Ed.
+Mit was soll ich den Hamster benutzen?
+Con che cosa devo usare il criceto?
+Außer mit einer Mikrowelle versteht sich.
+A parte il forno a microonde, certo.
+Untersteh dich!
+Non osare!
+Hände weg von dem Hamster.
+Giù le mani da quel criceto.
+Dafür bräuchte ich ein Skalpel.
+Avrei bisogno di un bisturi per questo.
+Komm mit mir, kleiner Racker!
+Vieni con me, piccoletto!
+Aus welchem Grund sollte ich ihn bewegen?
+Perché dovrei spostarlo?
+\"Gesucht: Hamster endlauven.
+\"Cerco: picolo griceto.
+Bälohnung für den Finda.\"
+Ricompenza a chi l'ho trova.\"
+Ich möchte das Plakat nicht haben.
+Non voglio il manifesto.
+Ein Werbeplakat für ein Internetforum über japanische Kinderserien.
+Un poster pubblicitario di un forum su Internet di una serie giapponese per bambini.
+Warum zur Hölle braucht man für sowas ein Internetforum?
+Perché diavolo hanno bisogno di un forum su internet?
+Plakat
+manifesto
+Klingelknöpfe
+pulsantiera per campanelli
+Hausnummer
+numero civico
+Straße
+viale
+Hi, Ash!
+Ciao, Ash!
+Hi, Syd!
+Ciao, Syd!
+Hi, Ashlay!
+Ciao, Ashlay!
+Hi, Achmed!
+Ciaa, Achmed!
+Aber es heißt eigentlich Ashley!
+Ma in realtà il nome è Ashley!
+Hi, Ashley!
+Ciao, Ashlay!
+Hi!
+Ciao!
+Eine Kettensäge.
+Una motosega.
+Ashlay können machen gute Sachen damit.
+Ashlay può far cose buone con essa.
+Es heißt Ashley, Achmed.
+Si chiama Ashley, Ahmed.
+Ash kann echt gut damit umgehen.
+Ash è davvero bravo con questa.
+Ich benötige keine Kettensäge.
+Non ho bisogno di una motosega.
+Die kann ich nicht einfach benutzen.
+Non posso usarla.
+Das ist ein Laden.
+Questo è un negozio.
+Ich müsste sie also erst mal kaufen.
+Prima dovrei comprarla.
+Zu weit weg.
+Troppo lontano.
+Ein Gewehr.
+Un fucile.
+Ashlay können gut mit Gewehr.
+Ashlay è bravo con il fucile.
+Ash weiß alles über diese Geräte.
+Ash sa tutto su questi arnesi.
+Es heißt Ashley, Achmed
+Si chiama Ashley, Achmed.
+Ich benötige kein Gewehr.
+Non ho bisogno di un fucile.
+Das kann ich nicht einfach benutzen.
+Non posso usarlo in questa maniera.
+Ich müsste es also erst mal kaufen.
+Prima dovrei comprarlo.
+Das sein elektronische Ohrmuschel.
+Il suo auricolare elettronico.
+Ein Telefon.
+Un telefono.
+Ashlay würden benutzen Gewehr mit Achmed.
+Ashlay avrebbe usato il fucile con Achmed. (???)
+Ash hätte etwas dagegen.
+Ash si arrabbierebbe.
+Achmed haben eigenes Telefon.
+Achmed avere il suo telefono.
+Ash, kann ich mal telefonieren?
+Ash, posso fare una telefonata?
+Sorry, Syd.
+Mi spiace, Syd.
+Dafür haben wir den Münzfernsprecher neben der Tür.
+Per le chiamate abbiamo il telefono a gettoni accanto alla porta.
+Auch gut.
+Ah, bene.
+Mister Ashley, darf ich mal telefonieren.
+Signor Ashley, posso usare il tuo telefono?
+Gerne. Dort hinten an der Wand ist ein Münzfernsprecher.
+Volentieri. C'è un telefono pubblico sul retro della parete.
+Ah, danke.
+Ah, grazie.
+Ashlay nicht mögen das.
+Ashlay non mi piace.
+Es heißt Ashley, Achmed!
+È Ashley, Ahmed!
+Hauswaren-Abeilung.
+Articoli casalinghi.
+Kauf smart - kauf im S-Mart!
+Acquisti smart - solo da S-Mart!
+Achmed müssen kaufen.
+Achmed dovrebbe comprarla.
+Früher haben Achmed einfach mitgenommen. Aber in Ronville, Achmed das können nicht mehr machen.
+In passato Achmed se l'era portata con sé. Ma in Ronville, Achmed non può più farlo.
+Die kann ich nicht einfach nehmen.
+Non posso raccoglierla.
+Das sein Seherfern.
+Essere il suo spot pubblicitario. (??? verificare)
+Ich will gar nicht wissen, was da passiert ist.
+Non voglio nemmeno sapere cosa sia successo.
+Achmed nix wollen schauen fern.
+Achmed non vuol guardare la TV.
+Der funktioniert garantiert nicht mehr.
+È certo che non funziona.
+Ich kann ihn nicht anmachen.
+Non riesco ad accenderlo.
+Würden Ashlay, Achmed nie erlauben.
+Ashlay, Achmed non lo permetterebbe mai. (???)
+Meine Fernbedienung wird hier nicht funktionieren.
+Il mio telecomando non funziona qui.
+Mal sehen ...
+Vediamo...
+Sein Achmed zu schwer.
+Essere troppo pesante per Achmed.
+Der Automat ist mir zu schwer.
+La macchina è troppo pesante per me.
+Würde Achmed nie erlauben, Ashley.
+Achmed non lo avrebbe mai permesso, Ashley. (???)
+Sein Ohrmuschel-Münze.
+Essere una cornetta.
+'Payphone' klingt eigentlich besser.
+"Telefono pubblico" in realtà suona meglio.
+Egal.
+Non importa.
+Laß den bloß hängen Achmed.
+Lascialo stare lì appeso, Achmed. (???)
+Schade.
+Peccato.
+Echt Schade.
+È un peccato.
+Obwohl sicher Kleingeld im Fernsprecher ist, lasse ich ihn lieber hängen.
+Anche se volessi fare qualche modifica al telefono, preferisco lasciarlo appeso.
+Ash beobachtet mich nämlich.
+E poi Ash mi sta guardando.
+Ich hab' kein Kleingeld dabei ...
+Non ho moneta da cambiare...
+Und ich hab' ein eigenes Telefon in der Wohnung.
+E ho già il mio telefono nel mio appartamento.
+Ashlay würden Achmed nie erlauben.
+Ashlay non lo avrebbe mai permesso ad Achmed.
+Dafür müsste ich ihn erstmal kaufen.
+Prima dovrei comprarlo.
+Den Eimer hin und her zu bewegen bringt auch nichts.
+Spostare il secchio avanti e indietro non porta a nulla.
+Der ist schon zu.
+È già chiuso.
+Ich würde das hier gerne kaufen.
+Mi piacerebbe comprare questo.
+Hast du Geld dabei?
+Hai dei soldi con te?
+Nein, aber ich zahle per CashCard.
+No, ma posso pagare con la mia carta di credito.
+Vielen Dank für ihren Einkauf im S-Mart.
+Grazie per aver fatto la spesa da S-Mart.
+Nein, ich bin komplett blank.
+No, sono completamente al verde.
+Dann stell den Eimer bitte wieder zurück.
+Allora sei pregato di rimettere a posto il secchio.
+Verschiedene Waren.
+Prodotti vari.
+Was davon soll ich benutzen?
+Che cosa dovrei usare?
+Ich brauche nichts davon.
+Non mi serve.
+Ich kann hier doch nicht einfach irgendwelche Waren öffnen.
+Non posso mettermi ad aprire tutta la merce che è qui.
+Ich möchte da nichts bewegen.
+Non voglio muovere nulla.
+Bildschirm
+schermo
+Münzfernsprecher
+telefono a gettoni
+Kettensäge
+motosega
+Gewehr
+fucile
+Waren
+merce esposta
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Wir unterbrechen das aktuelle Programm für eine Sondermeldung!
+Interrompiamo le trasmissioni per comunicarvi una notizia straordinaria!
+Wie soeben bekannt gegeben wurde...
+È stato reso pubblico che...
+...wird aufgrund der nicht jugendfreien Inhalte von \"Die geheimen Tagebücher der Britney B\"...
+... a causa di contenuti vietati ai minori ne \"Il diario segreto di Britney B.\"...
+...eine Behörde zur Kontrolle von Büchern ins Leben gerufen!
+... la commissione di vigilanza sui libri ha avviato un provvedimento cautelare! 
+Das Books Rating Board oder kurz BRB wird absofort...
+Il Books Rating Board noto con l'acronimo BRB ha stabilito che...
+Bücher in die Altersgruppen: Ab 0 Jahren, 6 Jahre, 13 Jahre und 17 Jahre...
+... il libro non è adatto alle seguenti fasce d'età:
+unterteilen.
+minori di 0 anni, di 6 anni, di 13 anni e di 17 anni.
+Der Bestseller von Britney B. wurde gar komplett auf den Index gesetzt und kann nun gar nicht mehr erworben werden.
+Il bestseller di Britney B. è stato messo all'Indice e non può più essere acquistato.
+Und nun zurück zum laufenden Programm.
+E ora torniamo al programma in corso.
+Ed?
+Ed?
+Ich soll für meine Mamma das Buch von dieser Britney besorgen.
+Dovrei prendere il libro di Britney per mia madre.
+Hier soll es noch jemanden geben, der es verkauft.
+Sembra che ci sia qualcuno qui che lo vende.
+Verhandlungen zwischen zwei Zurückgebliebenen. Da würde ich zu gerne mal Mäuschen spielen.
+I negoziati tra le due parti vanno per le lunghe. Mi piacerebbe sapere come andrà a finire.
+\"Woodie's Pizza Shack\".
+\"Pizza Shack di Woodie\".
+Der Eingang zu \"Woodie's Pizza Shack\".
+L'ingresso del \"Woodie's Pizza Shack\".
+Gute Idee, aber es hapert an der Umsetzung.
+Buona idea, ma questa soluzione non funziona.
+Zu!
+Chiuso!
+Unser Lokal öffnet erst heute abend, Achmed.
+Il nostro ristorante non aprirà fino a mezzanotte, Achmed. (??? ristorante? chi parla?)
+Wenn du 'ne Pizza willst, dann komm' hier rüber.
+Se vuoi una pizza, vieni pure qui.
+Später vielleicht.
+Forse più tardi.
+Wie du meinst ...
+Come vuoi...
+Geschlossen!
+Chiuso!
+Unser Lokal öffnet erst heute abend, Syd.
+Il nostro locale non apre prima di stasera, Syd.
+Unser Lokal öffnet erst heute abend.
+Il nostro ristorante non apre fino a stanotte.
+Was machst du da?
+Cosa stai facendo?
+Ähh.
+Ehh.
+Lass das brav bleiben.
+Non fare il furbo.
+\"Day of the Dead\"
+\"Day of the Dead\"
+Den habe ich kürzlich gesehen.
+L'ho visto di recente.
+Ich mochte den Schurken.
+Mi è piaciuto il cattivo.
+Mit was soll ich das Plakat benutzen?
+Per cosa dovrei usare il manifesto?
+Ich sammel keine Filmplakate.
+Non colleziono locandine di film.
+Außerdem müsste ich erst die Scheibe einschlagen.
+Inoltre, dovrei rompere la bacheca per farlo.
+Ich bräuchte einen Schlüssel, um den Kasten aufzumachen.
+Mi serve la chiave per aprire la bacheca.
+Der Kasten ist bereits zu.
+La bacheca è già chiusa.
+Das ist der neue Disneyfilm.
+È il nuovo film Disney.
+\"Disneys Voll auf Zak!\"
+\"Movie Disney su Zak!\"
+Es geht um einen Boulevard-Reporter, der mit seinem treuen Goldfisch und einem trockenen Baquette die Welt vor Außerirdischen rettet.
+Si tratta di un giornalista da tabloid che salva il mondo dagli alieni con il suo fedele pesciolino rosso e una baguette.
+Weg zu S-Mart-Ashlay.
+Direzione verso la S-Mart di Ashlay.
+Da geht's zum S-Mart.
+Conduce da S-Mart.
+Straße sein unkoporzativ.
+La via non essere praticabile.
+Das lässt die Straße nicht mit sich machen.
+Non si può fare con la strada.
+Da gehts zum Hinterhof.
+Conduce verso il cortile.
+Eingang>v
+ingresso>v
+Hinterhof
+cortile
+Hotspot 1
+
+Start
+Gioca
+[]~
+
+]Episode 41: Das neue Jugendschutzgesetz
+]Episodio 41: La nuova legge a tutela dei minori
+] [Idee, Handlung, Rätseldesign, Scripting]
+] [Idea, gioco, enigmi, sceneggiatura]
+Cone Arex
+Cone Arex
+] [Verwendete Engine
+] [Motore di gioco utilizzato
+Adventure Game Studio 3.3.4
+Adventure Game Studio 3.3.4
+] [Verwendete Starterpacks
+] [Starterpack utilizzati
+Syd-Starterpack
+Starterpack di Syd
+] [zusätzliche Grafiken]
+] [Grafica addizionale]
+Cone Arex, Syd-Starterpack
+Cone Arex, starterpack di Syd
+oder entliehen aus folgenden Episoden/Spielen
+o presa in prestito dai seguenti episodi/giochi
+Kettensäge - Maniac Mansion Deluxe
+Motosega - Maniac Mansion Deluxe
+Farbeimer (bearbeitet) - Maniac Mansion Deluxe
+Secchio di vernice (modificato) - MM Deluxe
+Regale - Maniac Mansion Deluxe
+Scaffali - Maniac Mansion Deluxe
+Rocker-Poster - Maniac Mansion Deluxe
+Manifesto rockettaro - Maniac Mansion Deluxe
+Hamster - Maniac Mansion Deluxe
+Criceto - Maniac Mansion Deluxe
+Leeres Glas - Maniac Mansion Deluxe
+Barattolo vuoto - Maniac Mansion Deluxe
+Milchpackung - Presserummel
+Confezione di latte - MMM22
+CashCard (bearbeitet) - Die neuen Abenteuer des Zak McKraken
+C.credito(modif.)-Le nuove avvent. di Zak McKraken
+Schlaftabletten - The Tales of Weird Ed
+Sonniferi - MMM10
+Hinterhof - Clousos großer Coup
+Cortile - MMM49
+Handy - Right Said Fred?!
+Telefono cellulare - MMM7
+Hamstergesicht (bearbeitet) - Hamsternator
+Faccia del criceto (modificata) - MMM27
+] [Neue Charaktere]
+] [Nuovi personaggi]
+Tom Koslowski
+
+psychoF82
+
+][ Musik]
+][ Musica]
+Midis des Starterpacks]
+Midi dagli starterpack]
+Maniac Mansion
+
+Zak McKracken and the Alien Mindbenders
+
+The Secret of Monkey Island
+
+\"Tomorrow Today\", Bjorn Lynne
+
+][ Betatester der Episode]
+][ Betatester dell'episodio]
+Kinkilla, Champ, Bissiger Witzbold
+Kinkilla, Champ, Bissiger Witzbold
+Syd/Achmed-Starterpack]
+Starterpack di Syd/Achmed]
+MisterL (Original)
+MisterL (originale)
+Rulaman (neue Version)
+Rulaman (nuova versione)
+]Übersetzung für AGS 3]
+]Conversione per AGS 3]
+Rulaman
+
+COMMENT *** Credits for the Translator(s): translate the string 'Translated by:' and insert your name under the line called 'who did the translation'
+
+][Translated by:]
+][\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Traduzione a cura del[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Monkey Island World (miworld.eu)]
+who did the translation.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Dialoghi:[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Giocherellone, utdefault[[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Grafica: Blackmonkey[[\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\Betatest: utdefault
+][AdventureGameStudio 3.3.5
+
+AGS-Community
+Community di AGS
+]Credit-Modul:]
+]Modulo Crediti:]
+SSH
+
+]~
+
+Dieses Spiel wurde in Gedenken an Inspektor Clouso entwickelt.
+Questo gioco è stato sviluppato in memoria dell'ispettore Clouso.
+Ich erinnere mich gut an seine letzten Worte: 
+Le sue ultime parole furono:
+\"Verschwinden sie! Sie sehen doch, dass ich gerade bade! Und legen sie meinen Haartrockner wieder hin!\"
+\"Sparite! Non lo vedete che sto facendo il bagno? E rimettete a posto il mio asciugacapelli!\"
+Nachdem er aus dem Koma wieder aufwachte konnte er nur noch zwei Worte von sich geben: 
+Dopo essersi svegliato dal coma, poté dire solo due parole: 
+\"Blau\" und \"Baseballschläger.\"
+\"Blu\" e \"Mazza da baseball\".
+Man fand ihn wenige Tage später tot in seiner Wohnung.
+Qualche giorno dopo è stato trovato senza vita nel suo appartamento.
+Er starb an einer Überdosis...
+Morto di overdose da...
+...Schlaftabletten. War es Selbstmord?
+... sonniferi. Che sia stato un suicidio?
+War noch was?
+Manca qualcos'altro?
+Ach ja.
+Ah, sì.
+ENDE
+FINE
+Die Küchenschwingtür.
+La porta della cucina a battente.
+Wie bitte?
+Scusa?
+Ich gehe doch nicht in die Küche.
+Non voglio entrare in cucina.
+Die ist doch schon auf.
+È già aperta.
+Die ist doch schon zu.
+È già chiusa.
+Ich komme leider nicht ran.
+Non riesco a raggiungerlo.
+Dazu müsste ich näher ran ...
+Dovrei avvicinarmi...
+Ich will es nicht ziehen. Und selbst wenn, ich bin zu weit weg.
+Non voglio tirarlo. E anche se volessi sono troppo lontano.
+Ich will es nicht drücken. Und selbst wenn, ich bin zu weit weg.
+Non voglio spingerlo. E anche se volessi sono troppo lontano.
+Aus der rosa Flasche strömt ein angenehmer Duft aus.
+Dalla bottiglia rosa fuoriesce un gradevole profumo.
+Da ist guter Wein drinnen. Leider nicht für mich.
+C'è buon vino all'interno. Purtroppo non è per me.
+Die Stange einer Garderobe. Daran kann man seine Jacke aufhängen.
+L'asta di un guardaroba. È possibile appoggiarci la giacca.
+Die Stange ist an der Garderobe festgemacht.
+L'asta del guardaroba. 
+Ich will meine Jacke nicht daran aufhängen.
+Non voglio appenderci la mia giacca.
+Der sitzt zu fest.
+È troppo stretto.
+Eine Garderobe. Man kann an der Stange seine Jacken aufhängen.
+L'asta di un guardaroba. i si possono appoggiare su le giacche.
+Ich will keine Jacke daran aufhängen.
+Non voglio metterci la giacca.
+Die Garderobe ist doch schon auf.
+Il guardaroba è già aperto.
+Die Garderobe ist doch schon auf.
+L'armadio è già aperto.
+Ich bin zu schwach um sie zu bewegen.
+Sono troppo debole per spostarlo.
+Ein Schirmeimer.
+Un porta-ombrelli.
+Leer.
+Vuoto.
+Den lass ich lieber stehen.
+Preferirei lasciarlo qui.
+Ich habe aktuell keinen Schirm, den ich da reintun könnte, bei mir.
+Al momento non ho un ombrello da mettere lì.
+Der Eimer hat schon eine Öffnung.
+Il porta-ombrelli ha già un'apertura.
+Ich habe noch keinen Schirmeimer mit Deckel zum Schließen gesehen.
+Non ho mai visto un porta-ombrelli con il coperchio.
+Das geht so nicht.
+Così non funziona.
+Ein dreckiger Schuhabtreter.
+È un tappetino sporco.
+Außer Staub wird da nicht viel darunter sein.
+Non ci sarà molto sotto, tranne la polvere.
+Meine Schuhe sind sauber.
+Le mie scarpe sono pulite.
+Das will ich nicht.
+Non voglio.
+Bilder von Jeffs Vorfahren.
+Immagini degli antenati di Jeff.
+Ich klaue keine Ahnen.
+Non sono qui per rubare gli antenati. (???)
+Diese Bilder zeigen einige von Jeffs Vorfahren.
+Queste immagini mostrano alcuni degli antenati di Jeff.
+Die Bilder hängen direkt an der Wand. Da gibt es nichts zu öffnen.
+Le immagini sono appese direttamente alla parete. Non c'è niente da aprire.
+Das lääst sich nichts schließen.
+Non c'è niente da chiudere. (???)
+Die Bilder hängen da ganz gut.
+Le immagini sono appese abbastanza bene.
+Da geht es in die Küche vom Shack.
+È la cucina dello Shack.
+Es führt keine Tür zur Küche. Nur eine kleine Schwingtür.
+Non ci sono porte per la cucina. Solo una porta girevole.
+Die lass ich lieber in Ruhe.
+Preferirei lasciarli in pace.
+Das Weinregal des Lokals. Leider sind nicht mehr viele da.
+Il portabicchieri del ristorante. Purtroppo molti non ci sono più.
+Ich klaue Jeffs Eltern doch nicht ihren Wein. Außerdem ist der für die Gäste.
+Non sto rubando il vino di Jeff. Inoltre, è per gli ospiti. (???)
+Da ist sogar noch ein Burgunder drin.
+C'è anche una Borgogna lì.
+Das Weinregal ist beretis offen.
+Il portabicchieri è aperto.
+Das ist leider nicht abschließbar.
+Purtroppo non può essere bloccato.
+Das Regal ist gut verschraubt. Es lässt sich nicht bewegen.
+Il ripiano è ben avvitato. Non può muoversi.
+Hier geht es zur Toilette des Shacks.
+Da qui si va al bagno dello Shacks.
+Ich muss zur Zeit nicht, aber irgendwie meine ich immer ...
+Non mi è necessario in questo momento, ma comunque penso sempre...
+... dass die Toilette wie im Lokal in der Stadt aussieht.
+... che ogni bagno assomiglia al ristorante, in questa città. (???)
+Eine Pflanze. Nicht zu vergleichen mit Chuck.
+Una pianta. Non c'è confronto con Chuck.
+Ich könnte ein Blatt abreißen, aber nicht jetzt.
+Potrei strapparne una foglia, ma non è il momento.
+Dazu ist die Toilette da.
+Lì c'è il gabinetto.
+Und sie aus dem Boden rausreißen?
+E strapparli dal terreno? (???)
+Gießen wäre möglich, aber ich habe kein Wasser bei mir.
+Potrei annaffiarla, ma non ho acqua con me.
+Die Pflanze steht da gut.
+La pianta sta bene lì.
+Dieses Bild zeigt Griechenland.
+Questa immagine mostra la Grecia.
+Ja, das würde sich gut in meiner Wohnung machen ...
+Sì. starebbe bene nel mio appartamento...
+Schön.
+Bene.
+Dahinter verbirgt sich nichts.
+Non c'è nulla dietro.
+Ich lass es lieber hängen.
+Preferirei lasciarlo lì appeso.
+Einige Stühle.
+Alcune sedie.
+Ich brauche keinen.
+Non ne ho bisogno.
+Setzen? - Nee.
+Sedermi? Naa...
+Das klappt nicht.
+Non funziona.
+Einige Tische.
+Alcune tavole.
+Nee.
+Naa...
+Rosa Flasche
+bottiglia rosa
+Weinflaschen
+bottiglie di vino
+Garderobenstange
+appendiabiti
+Garderobe
+guardaroba
+Schirmeimer
+porta-ombrelli
+Schuhabtreter
+tappetino
+Bilder
+immagini
+Küche
+
+Weinregal
+portabicchieri
+Toilettentür
+porta della toilette
+Pflanze
+pianta
+Bild
+cartello
+Tische und Stühle
+tavoli e sedie
+Schwingtür
+porta girevole
+Da geht es nach nebenan ... zum Pizza Shack.
+Questa è la porta accanto... alla "Pizza Shack".
+Nicht in dieser Episode.
+Non in questo episodio.
+Komm Tür, lass dich drücken!
+Apriti, porta!
+Ich reiße keine Türen aus den Angeln.
+Non strappo le porte dalle loro cerniere.
+Ich kann ins Innere sehen.
+Posso vedere dentro.
+Von außen lassen sich die Fenster nicht öffnen.
+La finestra non può essere aperta dall'esterno.
+Die Fenster sind bereits verschlossen.
+La finestra è già chiusa.
+Absolut unbewegbar.
+Assolutamente immobile.
+Ich brauche keine Fenster.
+Non ho bisogno di finestre.
+Eine einfach so in der Gegend stehende Kiste.
+Una scatola come quelle dei paraggi.
+Die möchte ich nicht haben.
+Non la voglio.
+Es interessiert mich absolut gar nicht, was dort drin ist.
+Non mi interessa assolutamente cosa c'è dentro.
+Die ist bereits zu.
+È già chiusa.
+Sehe keinen Grund, die Kiste zu bewegen.
+Non vedo motivo per spostare la scatola.
+Eine umgefallene Tonne.
+Un bidone rovesciato.
+Es ist nicht meine Aufgabe, hier aufzuräumen.
+Non è mio compito pulire questo posto.
+Der Deckel ist weit und breit nicht zu finden.
+Il coperchio non si trova nei dintorni.
+Das Teil ist bereits offen.
+Questa cosa è già aperta.
+Eine Mülltonne, die im Gegensatz zur anderen noch steht.
+Un bidone della spazzatura che è ancora in piedi al contrario dell'altro.
+Ohne guten Grund wühle ich nicht im Müll.
+Non scavo nella spazzatura senza un buon motivo.
+Ich bin kein Müllmann.
+Non sono della nettezza urbana.
+\"Zum Verkauft\"
+\"In vendita\"
+Ich sehe nichts, was ich öffnen könnte.
+Non vedo niente che si possa aprire.
+Ich sehe nichts, was ich schließen könnte.
+Non vedo niente che si possa chiudere.
+Weiter in die Wand drücken geht nicht.
+Non è possibile spingerlo ulteriormente nel muro.
+Ich brauche das Plakat nicht.
+Non mi serve il manifesto.
+Kiste
+scatola
+Tonne
+bidone
+PizzaShack
+PizzaShack
+Ist ihr Hamster unglücklich?
+Il tuo criceto è depresso?
+Ist er schon von seinem Häuschen gesprungen um Selbstmord zu begehen?
+È di nuovo scappato dalla gabbia per andare a suicidarsi?
+Wissen sie warum?
+Sapete il perché?
+Weil sie ihm kein HAMSTAR-Hamsterfutter geben.
+Perché non gli date cibo per criceti CRICESTAR.
+Nur HAMSTAR enthält die Montro-Ilon-Cron-Ron-Onlu-Wenk-Energie-Lie-Lung-Essenz...
+Solo CRICESTAR contiene le Musco-Idro-Croni-Radio-Orri-Omeo- -Natu-Distru-Essenze...
+...welche Hamster glücklich macht.
+... che fanno felici i criceti.
+Selbst die anspruchsvollsten Hamsterfetischisten sind begeistert!
+Anche i criceto-feticisti più esigenti saranno entusiasti!
+HAMSTAR ist ganz toll!
+CRICESTAR è davvero straordinario!
